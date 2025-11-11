@@ -1,0 +1,195 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: aliceblue;
+}
+
+main {
+  display: grid;
+  gap: 20px;
+}
+
+.post-card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transition: 0.2s;
+}
+
+.post-card:hover {
+  transform: translateY(-3px);
+}
+
+.post-card h2 {
+  margin-bottom: 10px;
+}
+
+.post-card a {
+  text-decoration: none;
+  color: #333;
+}
+header {
+  background-color: #293e4b;
+  color: white;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  border-bottom: 1px solid #ffffff;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+.logo-image {
+  height: 50px; /* Altura fixa para a logo */
+  width: auto; /* Largura automática para manter proporção */
+}
+
+footer {
+  background-color: #dbdbdb;
+  color: #333;
+  text-align: center;
+  padding: 0.5rem;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+.container {
+  padding: 5%;
+  padding-bottom: 100px; /* espaço para o footer */
+}
+
+.container1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+
+
+
+
+/* --------------------------MEDIA QUERIES PARA RESPONSIVIDADE---------------------------------- */
+
+/* Em telas Full HD (1920x1080 ou mais) → footer fixed */
+@media (min-width: 1920px) and (min-height: 1080px) {
+  footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+  }
+  
+  .container {
+    padding-bottom: 0; /* remove o espaço extra */
+  }
+}
+@media (min-width: 768px) {
+  header {
+    flex-direction: row;
+    justify-content: flex-start; /* Alterado de space-between para flex-start */
+    align-items: center;
+    padding: 1rem 2rem;
+    position: relative; /* Adicionado para posicionamento absoluto do título */
+  }
+  
+  .logo-image {
+    height: 50px;
+    margin-right: 20px; /* Espaço entre a logo e o título */
+  }
+  
+  header h1 {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0;
+    white-space: nowrap;
+  }
+   footer img {
+   margin-right: auto; /* Empurra a logo para a esquerda */
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 2%;
+    padding-bottom: 120px; /* mais espaço para o footer em mobile */
+  }
+  .imagemg2 {
+    display: none;
+  }
+  
+.icons{ display: none;}
+  
+ 
+  
+  
+}
+
+@media (max-width: 480px) {
+  header {
+    padding: 0.1rem;
+  }
+  header h1 {
+    font-size: 1.5rem;
+    display: none;
+  }
+  
+  
+  .logo-image {
+  }
+  
+  footer {
+    font-size: 0.8rem;
+    padding: 0.5rem;
+  }
+   footer img {
+    display: none; /* esconde a logo no footer em mobile */
+  }
+}
+/* --- Base: footer no fim, sem cobrir conteúdo --- */
+html, body { height: 100%; }
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  /* seu padding padrão */
+  padding: 5%;
+  /* colchão para a altura do footer quando ele estiver fixed */
+  padding-bottom: 100px;
+  flex: 1 0 auto;
+}
+
+footer {
+  /* regra padrão (não fixo) */
+  position: relative;
+  flex-shrink: 0;
+  left: 0; right: 0; width: 100%;
+}
+
+/* --- FHD exato (1920x1080) e maiores: footer fixo --- */
+@media screen and (min-width: 1920px) and (min-height: 1080px) {
+  footer {
+    position: fixed !important;
+    bottom: 0; left: 0; right: 0;
+  }
+}
+
+/* --- Cobertura para FHD com escala/zoom (viewports comuns) --- */
+@media screen and (min-width: 1600px) and (min-height: 900px) and (min-aspect-ratio: 16/9) {
+  footer {
+    position: fixed !important;
+    bottom: 0; left: 0; right: 0;
+  }
+}

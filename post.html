@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resumo Clipping</title>
+  <link rel="stylesheet" href="estilo_home.css">
+</head>
+<body>
+  <header>
+     <a href="index.html" title="TCE-RJ">
+          <img class="logo-image" src="logo_sub.png" alt="CRF-RJ">
+     </a>
+     
+    <h1><i class="fa-solid fa-sitemap"></i> <a href="index.html" style="text-decoration: none; color: aliceblue;" >Resumos Clipping</a></h1>
+  </header>
+  <article id="post-content">Carregando...</article>
+
+  <footer>
+    <p><a href="index.html">← Voltar</a></p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const file = params.get("file");
+
+    if (file) {
+      fetch(`./posts/${file}`)
+        .then(res => res.text())
+        .then(md => {
+          document.getElementById("post-content").innerHTML = marked.parse(md);
+        })
+        .catch(() => {
+          document.getElementById("post-content").innerHTML = "<p>Post não encontrado.</p>";
+        });
+    }
+  </script>
+</body>
+</html>
+>
+    
