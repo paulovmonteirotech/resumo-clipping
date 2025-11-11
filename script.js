@@ -1,14 +1,19 @@
 // Lista de posts (adicione manualmente)
 const posts = [
+  {
+    title: "Resumo Clipping 11/11/2025",
+    date: "11/11/2025",
+    file: "11_11_2025.md"
+  },
       {
     title: "Resumo Clipping 10/11/2025",
-    date: "09/11/2025",
+    date: "10/11/2025",
     file: "10_11_2025.md",
     summary: "Mais um exemplo, para testar a navegação e layout."
   },
   {
     title: "Resumo Clipping 06/11/2025",
-    date: "10/11/2025",
+    date: "06/11/2025",
     file: "06_11_2025.md",
     summary: "Um post de exemplo mostrando como funciona o blog."
   },
