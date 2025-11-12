@@ -102,4 +102,32 @@ document.querySelectorAll('.filter-toggle').forEach(btn => {
     });
 });
 
+
 loadNoticias();
+document.getElementById('search-title').addEventListener('input', applyFilters);
+
+function applyFilters() {
+    const selectedDates = getCheckedValues('filter-date');
+    const selectedJornais = getCheckedValues('filter-jornal');
+    const selectedTemas = getCheckedValues('filter-temas');
+    const searchText = document.getElementById('search-title').value.toLowerCase();
+
+    filteredNews = noticiasData.filter(n => {
+        const matchDate = selectedDates.length === 0 || selectedDates.includes(n.data);
+        const matchJornal = selectedJornais.length === 0 || selectedJornais.includes(n.jornal);
+        const matchTemas = selectedTemas.length === 0 || selectedTemas.some(t => n.temas_relacionados.includes(t));
+        
+ // Busca em qualquer campo
+        const matchSearch = searchText === '' || Object.values(n).some(value => {
+            if (Array.isArray(value)) {
+                return value.some(v => v.toLowerCase().includes(searchText));
+            }
+            return String(value).toLowerCase().includes(searchText);
+        });
+
+        return matchDate && matchJornal && matchTemas && matchSearch;
+    });
+
+    currentPage = 1;
+    renderTable();
+}
