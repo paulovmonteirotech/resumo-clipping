@@ -231,8 +231,116 @@
       "link": [
         "https://www.otempo.com.br/emprego-e-concursos/2025/11/9/concurso-alerj-inscricoes-ate-na-proxima-quinta-feira-13-com-salario-ate-r-4400852"
       ]
+    },
+    {
+        "data": "06/11/2025",
+        "jornal": "A Tribuna RJ",
+        "titulo": "População de rua no RJ",
+        "temas_relacionados": [
+            "Assistência social",
+            "Desenvolvimento social",
+            "TCE-RJ",
+            "CAD-Desenvolvimento"
+        ],
+        "resumo": "Auditoria do TCE-RJ apontou fragilidades nas políticas públicas voltadas à população em situação de rua em 12 municípios fluminenses. Foram recomendadas melhorias no atendimento e estruturação de política estadual específica.",
+        "link": "https://monitoring.knewin.com/front/noticia/?k=TVRFeU1UQTJORFl5SmpJeU5qST0=&id=112106462"
+    },
+    {
+        "data": "06/11/2025",
+        "jornal": "Correio da Manhã",
+        "titulo": "Prefeitos firmam pacto por soluções climáticas locais",
+        "temas_relacionados": [
+            "Desenvolvimento econômico",
+            "Desenvolvimento social",
+            "TCE-RJ"
+        ],
+        "resumo": "Na Cúpula Mundial de Prefeitos da C40, Eduardo Paes destacou ações sustentáveis e empregos verdes. Eventos da agenda ambiental ocorreram no auditório do TCE-RJ.",
+        "link": "https://monitoring.knewin.com/front/noticia/?k=TVRFeU1EVXpNelUxSmpJeU5qST0=&id=112053355"
+    },
+    {
+        "data": "06/11/2025",
+        "jornal": "Correio da Manhã",
+        "titulo": "Petrópolis tem sequestro de R$ 13 mi das contas públicas",
+        "temas_relacionados": [
+            "Previdência social",
+            "Receita",
+            "Dívida ativa",
+            "Calamidade financeira",
+            "TCE-RJ",
+            "CAD-Previdência"
+        ],
+        "resumo": "Justiça determinou sequestro de R$ 13 milhões das contas da Prefeitura de Petrópolis para pagar aposentados do INPAS. A crise financeira pode configurar improbidade administrativa, com possibilidade de representação ao TCE-RJ.",
+        "link": "https://www.correiodamanha.com.br/petropolitano/2025/11/231749-petropolis-tem-sequestro-de-rs-13-mi-das-contas-publicas.html"
+    },
+    {
+        "data": "06/11/2025",
+        "jornal": "Correio da Manhã",
+        "titulo": "Orçamento do Estado em debate",
+        "temas_relacionados": [
+            "Receita",
+            "Impostos",
+            "Tributos",
+            "Royalties",
+            "Previdência social",
+            "Saúde",
+            "Assistência social",
+            "TCE-RJ",
+            "CAD-Receita",
+            "CAD-Previdência",
+            "CAD-Saúde"
+        ],
+        "resumo": "Alerj discutiu o PLOA 2026, com previsão de R$ 107,64 bilhões em receitas e R$ 126,57 bilhões em despesas. Destaques para previdência (R$ 31,14 bi), saúde (R$ 13,44 bi) e assistência social (R$ 1,27 bi). O TCE-RJ terá despesa prevista de R$ 2,99 bilhões.",
+        "link": "https://www.correiodamanha.com.br/estado-do-rio/2025/11/231885-orcamento-do-estado-em-debate.html"
+    },
+    {
+        "data": "06/11/2025",
+        "jornal": "Clique Diário",
+        "titulo": "TCE-RJ destaca equilíbrio financeiro e aprova contas da Prefeitura de Macaé referentes a 2024",
+        "temas_relacionados": [
+            "Receita",
+            "Saúde",
+            "Educação",
+            "TCE-RJ",
+            "CAD-Receita",
+            "CAD-Saúde"
+        ],
+        "resumo": "O TCE-RJ aprovou as contas de 2024 da Prefeitura de Macaé, destacando cumprimento das metas fiscais, respeito à LRF e aplicação correta dos percentuais constitucionais em saúde e educação.",
+        "link": "https://cliquediario.com.br/politica/tce-rj-destaca-equilibrio-financeiro-e-aprova-contas-da-prefeitura-de-macae-referentes-a-2024"
+    },
+    {
+        "data": "06/11/2025",
+        "jornal": "O Dia RJ Online",
+        "titulo": "TCE-RJ aprova contas de 2024 da ex-Prefeita de Saquarema Manoela Peres",
+        "temas_relacionados": [
+            "Receita",
+            "Saúde",
+            "Educação",
+            "Previdência social",
+            "TCE-RJ",
+            "CAD-Receita",
+            "CAD-Saúde",
+            "CAD-Previdência"
+        ],
+        "resumo": "O TCE-RJ aprovou as contas de 2024 da ex-prefeita de Saquarema, com destaque para superávit orçamentário e financeiro. Foram feitas ressalvas sobre precatórios e registros contábeis.",
+        "link": "https://odia.ig.com.br/saquarema/2025/11/7157918-tce-rj-aprova-contas-de-2024-da-ex-prefeita-de-saquarema-manoela-peres.html"
+    },
+    {
+        "data": "06/11/2025",
+        "jornal": "Tribuna da Serra",
+        "titulo": "Justiça determina sequestro de R$ 13 milhões das contas da Prefeitura para pagar aposentados",
+        "temas_relacionados": [
+            "Previdência Social",
+            "Assistência Social",
+            "Receita",
+            "Dívida Ativa",
+            "TCE-RJ",
+            "CAD-Previdência",
+            "CAD-Receita"
+        ],
+        "resumo": "Decisão judicial determinou sequestro de R$ 13 milhões das contas da Prefeitura de Petrópolis para pagamento de aposentados do INPAS. Denúncia foi protocolada no TCE-RJ por atrasos sistemáticos.",
+        "link": "https://tribunadepetropolis.com.br/noticias/justica-determina-sequestro-de-13-milhoes-de-reais-das-contas-da-prefeitura-para-pagar-aposentados/"
     }
-   
+
   
 ]
 
