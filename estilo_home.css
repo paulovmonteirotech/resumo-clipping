@@ -126,21 +126,22 @@ table {
       
     }
     th {
-      background-color: #112d4e;
-      color: white;
+      background-color: #082a4e;
+      color: rgb(255, 255, 255);
     }
-    tr:hover {
-      background-color: #c6defd;
-      color: #000000;
-    }
-    tr:nth-child(odd) {
+       tr:nth-child(odd) {
  background:lightgray; /* Cor para colunas ímpares */
 }
 
 tr:nth-child(even) {
-  background:rgb(2, 22, 74);/* Cor para colunas pares */
-  color: #f9f9f9;
+  background:rgb(182, 194, 225);/* Cor para colunas pares */
+  color: #000000;
 }   
+    tr:hover {
+      background-color: #85a8d2;
+      color: #1a336d;
+    }
+ 
 
 
 
