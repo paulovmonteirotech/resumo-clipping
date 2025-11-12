@@ -152,8 +152,31 @@ footer {
   gap: 1.5rem;
   margin-bottom: 2rem;
 }
-
-
+/*-----------------------------------------*/
+table {
+      margin: 0 auto;
+      border-collapse: collapse;
+      width: 97%;
+      background-color: #ffffff;
+      color: #000000;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 6px;
+      text-align: center;
+      
+    }
+    th {
+      background-color: #112d4e;
+      color: white;
+    }
+    tr:hover {
+      background-color: #c6defd;
+      color: #000000;
+    }
+    
 
 
 
