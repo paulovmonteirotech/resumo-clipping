@@ -1,0 +1,180 @@
+{
+  "noticias": [
+    {
+      "id": "noticia_1",
+      "data": "11/11/2025",
+      "jornal": "Jornal Correio da Manhã",
+      "titulo": "PIADA PRONTA: CONSÓRCIO CIMSERRA HOMOLOGA EMPRESA FANTASMA COMO VENCEDORA NO DIA DE HALLOWEEN",
+      "temas_relacionados": ["Contrato de gestão", "terceiro setor", "TCE-RJ"],
+      "resumo": "A matéria denuncia irregularidades na licitação de R$ 300 milhões do Consórcio Intermunicipal da Região Serrana (CIMSERRA), que teria homologado uma empresa fantasma como vencedora. Empresas prejudicadas recorreram ao TCE-RJ e à Justiça.",
+      "link": "https://s3-sa-east-1.amazonaws.com/multclipp/arquivos/noticias/2025/11/10/112262905/112262905_site.jpg"
+    },
+    {
+      "id": "noticia_2",
+      "data": "11/11/2025",
+      "jornal": "Jornal O Dia RJ",
+      "titulo": "TCE-RJ fecha o ano com apoio às artes",
+      "temas_relacionados": ["Receita", "institucional", "TCE-RJ"],
+      "resumo": "O TCE-RJ destinou recursos para eventos culturais em 2025, como o Festival do Servidor e o Dia do Orgulho LGBTQIA+. Foram investidos mais de R$ 100 mil em homenagens e aquisição de quadros.",
+      "link": "https://s3-sa-east-1.amazonaws.com/multclipp/arquivos/noticias/2025/11/11/112298465/112298465_site.jpg"
+    },
+    {
+      "id": "noticia_3",
+      "data": "11/11/2025",
+      "jornal": "Tempo Real RJ",
+      "titulo": "TCE dá cinco dias para Cedae explicar contrato de R$ 18,7 milhões sobre abertura de capital",
+      "temas_relacionados": ["Receita", "dívida ativa", "TCE-RJ", "CAD-Receita"],
+      "resumo": "O TCE-RJ notificou a Cedae para esclarecer irregularidades em contrato milionário com o Consórcio Hidro Rio. A denúncia aponta falhas técnicas e jurídicas.",
+      "link": "https://temporealrj.com/tce-da-cinco-dias-para-cedae-explicar-contrato-de-r-187-milhoes-sobre-abertura-de-capital/"
+    },
+    {
+      "id": "noticia_4",
+      "data": "11/11/2025",
+      "jornal": "Jornal Extra RJ",
+      "titulo": "Reajuste de 166,78% no auxílio-alimentação da PM",
+      "temas_relacionados": ["Trabalho", "previdência social"],
+      "resumo": "O governador Cláudio Castro anunciou reajuste no auxílio-alimentação dos policiais militares, valorizando a categoria após 20 anos sem aumento.",
+      "link": "https://s3-sa-east-1.amazonaws.com/multclipp/arquivos/noticias/2025/11/11/112302478/v1.5_112302478_49b7f144.jpg"
+    },
+    {
+      "id": "noticia_5",
+      "data": "11/11/2025",
+      "jornal": "ALERJ",
+      "titulo": "Comissão da Alerj defende mobilização contra PEC da Reforma Administrativa",
+      "temas_relacionados": ["Trabalho", "previdência social", "desenvolvimento social"],
+      "resumo": "A Alerj debateu os impactos da PEC 38/2025, que altera regras de contratação e progressão de servidores públicos. Sindicatos e especialistas alertam para precarização do serviço público.",
+      "link": "http://www.alerj.rj.gov.br/Visualizar/Noticia/80692"
+    },
+    {
+      "id": "noticia_6",
+      "data": "11/11/2025",
+      "jornal": "Tribuna da Serra",
+      "titulo": "Alerj debate taxa de turismo a R$ 95,00 em Angra e na Ilha Grande",
+      "temas_relacionados": ["Receita", "desenvolvimento econômico", "comércio e serviços"],
+      "resumo": "A taxa de turismo sustentável aprovada pela Câmara de Angra dos Reis gerou protestos. A Alerj debate impactos econômicos e sociais da medida.",
+      "link": "https://tribunadaserra.com.br/alerj-debate-taxa-de-turismo-a-r-9500-em-angra-e-na-ilha-grande/"
+    },
+    {
+      "id": "noticia_7",
+      "data": "11/11/2025",
+      "jornal": "Jornal O Globo",
+      "titulo": "Estado poderá pagar dívidas com royalties",
+      "temas_relacionados": ["Receita", "royalties", "previdência social", "dívida ativa", "TCE-RJ", "CAD-Receita", "CAD-Previdência"],
+      "resumo": "O desembargador Milton Fernandes revogou liminar que suspendia o uso de royalties do petróleo para pagamento de dívidas do estado. Deputados alegam risco ao Rioprevidência.",
+      "link": "https://s3-sa-east-1.amazonaws.com/multclipp/arquivos/noticias/2025/11/11/112301645/112301645_site.jpg"
+    },
+
+    {
+      "data": "10/11/2025",
+      "jornal": "Correio da Manhã",
+      "titulo": "Roberto Carlos vira ‘O Rei do Consignado’ ao endossar o avanço do Mercantil sobre aposentadorias",
+      "temas_relacionados": [
+        "Previdência Social",
+        "Empréstimo Consignado",
+        "INSS",
+        "Direitos do Consumidor"
+      ],
+      "resumo": "A matéria aborda a campanha publicitária do Banco Mercantil estrelada por Roberto Carlos, voltada ao público 50+, que promove o cartão Mercantil Diamante com serviços de saúde e bem-estar. O banco assumiu a folha de pagamento de novos benefícios do INSS após a suspensão do contrato da Crefisa, mas enfrenta denúncias de práticas abusivas e falta de transparência na oferta de crédito consignado. O Procon-MG e o Ministério Público de Minas Gerais investigam o caso.",
+      "links": [
+        "https://www.correiodamanha.com.br/sul-fluminense/regiao-do-vale/2025/11/232507-munir-entrega-homenagem-para-presidente-do-drm-rj.html",
+        "https://tcerj365-my.sharepoint.com/personal/paulovms_tcerj_tc_br/Documents/Arquivos%20de%20Microsoft%20Copilot%20Chat/Clipping%20TCE-RJ%20-%2010.11.2025.pdf"
+      ]
+    },
+    {
+      "data": "10/11/2025",
+      "jornal": "O Tempo",
+      "titulo": "Pressa para privatizar Copasa cria receio de aumento de tarifa",
+      "temas_relacionados": [
+        "Saneamento",
+        "Privatização",
+        "Dívida Ativa",
+        "Desenvolvimento Social",
+        "Direitos do Consumidor",
+        "Cedae"
+      ],
+      "resumo": "A matéria discute a proposta de privatização da Copasa em Minas Gerais, aprovada sem consulta popular. O governo estadual pretende usar os recursos da venda para amortizar a dívida de R$ 180 bilhões com a União. Especialistas alertam para riscos de aumento de tarifas e precarização dos serviços. A reportagem também menciona a privatização da Cedae no Rio de Janeiro e os problemas enfrentados pelas concessionárias.",
+      "links": [
+        "https://www.otempo.com.br/politica/2025/11/10/pressa-para-privatizar-copasa-cria-receio-de-aumento-de-tarifa",
+        "https://tcerj365-my.sharepoint.com/personal/paulovms_tcerj_tc_br/Documents/Arquivos%20de%20Microsoft%20Copilot%20Chat/Clipping%20TCE-RJ%20-%2010.11.2025.pdf"
+      ]
+    },
+    {
+      "data": "10/11/2025",
+      "jornal": "O Globo",
+      "titulo": "O próximo mergulho",
+      "temas_relacionados": [
+        "Saneamento",
+        "Saúde",
+        "Desenvolvimento Social",
+        "Cedae"
+      ],
+      "resumo": "A matéria trata da recuperação ambiental da Praia da Bica, na Ilha do Governador, por meio de obras de saneamento e modernização da Estação de Tratamento da Ilha (Etig), anteriormente gerida pela Cedae. O projeto visa tornar a praia própria para banho até o verão de 2026/2027, com impacto positivo na saúde pública e no ecossistema local.",
+      "links": [
+        "https://oglobo.globo.com/rio/noticia/2025/11/10/despoluicao-da-baia-de-guanabara-promete-regenerar-praia-da-bica-que-deve-voltar-a-ficar-limpa-no-verao-20262027.ghtml",
+        "https://tcerj365-my.sharepoint.com/personal/paulovms_tcerj_tc_br/Documents/Arquivos%20de%20Microsoft%20Copilot%20Chat/Clipping%20TCE-RJ%20-%2010.11.2025.pdf"
+      ]
+    },
+    {
+      "data": "10/11/2025",
+      "jornal": "Correio Braziliense Online",
+      "titulo": "Visão do Correio: Consciência com saúde masculina",
+      "temas_relacionados": [
+        "Saúde",
+        "Assistência Social",
+        "Tribunal de Contas da União (TCU)"
+      ],
+      "resumo": "A matéria destaca o Novembro Azul e a importância da prevenção ao câncer de próstata. O presidente do TCU, Vital do Rêgo, compartilha experiência pessoal e defende políticas públicas voltadas à saúde masculina. O evento reforça o papel da família na conscientização e a necessidade de ações governamentais desde a infância.",
+      "links": [
+        "https://www.correiobraziliense.com.br/opiniao/2025/11/7288547-visao-do-correio-consciencia-com-saude-masculina.html",
+        "https://tcerj365-my.sharepoint.com/personal/paulovms_tcerj_tc_br/Documents/Arquivos%20de%20Microsoft%20Copilot%20Chat/Clipping%20TCE-RJ%20-%2010.11.2025.pdf"
+      ]
+    },
+    {
+      "data": "10/11/2025",
+      "jornal": "Isto É Online",
+      "titulo": "TCU pede que STF mantenha punição bilionária a herdeiro de empreiteira",
+      "temas_relacionados": [
+        "Receita",
+        "Tribunal de Contas da União (TCU)",
+        "Dívida Ativa"
+      ],
+      "resumo": "O TCU, por meio da AGU, defende no STF a manutenção da punição de R$ 1,4 bilhão ao empresário Sérgio Cunha Mendes, herdeiro da empreiteira Mendes Júnior, por superfaturamento em contrato com a Petrobras. A corte também aplicou multa de R$ 10 milhões. A defesa alega prescrição, mas o TCU sustenta a legalidade da decisão.",
+      "links": [
+        "https://istoe.com.br/tcu-pede-que-stf-mantenha-punicao-bilionaria-a-herdeiro-de-empreiteira",
+        "https://tcerj365-my.sharepoint.com/personal/paulovms_tcerj_tc_br/Documents/Arquivos%20de%20Microsoft%20Copilot%20Chat/Clipping%20TCE-RJ%20-%2010.11.2025.pdf"
+      ]
+    },
+    {
+      "data": "10/11/2025",
+      "jornal": "A Tribuna RJ",
+      "titulo": "Homenagem no Palácio Guanabara reforça cobrança por auxílio-saúde à polícia",
+      "temas_relacionados": [
+        "Saúde",
+        "Assistência Social",
+        "Emendas Parlamentares",
+        "Segurança Pública",
+        "Alerj",
+        "Governo do RJ"
+      ],
+      "resumo": "A AAGEPOL-RJ realiza ato em homenagem aos policiais civis mortos e feridos em 2025, cobrando do governador Cláudio Castro a implementação do auxílio-saúde vetado na nova Lei Orgânica da Polícia Civil. A categoria reivindica gratificação de R$ 1.500 a R$ 2.000 por policial, além de estrutura médica adequada. O governador afirma que há planos para construção de hospital da Polícia Civil, mas cita restrições orçamentárias.",
+      "links": [
+        "https://atribunarj.com.br/materia/homenagem-no-palacio-guanabara-reforca-cobranca-por-auxilio-saude-a-policia"
+      ]
+    },
+    {
+      "data": "10/11/2025",
+      "jornal": "O Tempo",
+      "titulo": "Concurso ALERJ: Inscrições até na próxima quinta-feira (13), com salário até R$ 44.008,52",
+      "temas_relacionados": [
+        "Trabalho",
+        "Desenvolvimento Social",
+        "Administração Pública",
+        "Alerj"
+      ],
+      "resumo": "A Assembleia Legislativa do Estado do Rio de Janeiro (ALERJ) abriu concurso público com 101 vagas para níveis médio e superior, com salários de até R$ 44.008,52. As inscrições vão até 13 de novembro. Os cargos incluem procurador legislativo e especialista legislativo.",
+      "links": [
+        "https://www.otempo.com.br/emprego-e-concursos/2025/11/9/concurso-alerj-inscricoes-ate-na-proxima-quinta-feira-13-com-salario-ate-r-4400852"
+      ]
+    }
+  ]
+}

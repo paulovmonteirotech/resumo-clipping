@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Resumo Clipping</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tabela de Notícias</title>
   <link rel="stylesheet" href="estilo_home.css">
+
 </head>
 <body>
   <header>
@@ -14,14 +15,41 @@
     <h1><i class="fa-solid fa-sitemap"></i> Resumos Clipping</h1>
   </header>
 
-  <main id="posts-container">
-    <!-- Os posts serão carregados via JS -->
-  </main>
+<div class="filters">
+    <div class="filter-group">
+        <button class="filter-toggle">Data ▼</button>
+        <div class="filter-options" id="filter-date"></div>
+    </div>
+    <div class="filter-group">
+        <button class="filter-toggle">Jornal ▼</button>
+        <div class="filter-options" id="filter-jornal"></div>
+    </div>
+    <div class="filter-group">
+        <button class="filter-toggle">Temas ▼</button>
+        <div class="filter-options" id="filter-temas"></div>
+    </div>
+</div>
+<table>
+    <thead>
+        <tr>
+            <th>Data</th>
+            <th>Jornal</th>
+            <th>Título</th>
+            <th>Temas relacionados</th>
+            <th>Resumo</th>
+            <th>Link</th>
+        </tr>
+    </thead>
+    <tbody id="news-table-body"></tbody>
+</table>
 
-  <footer>
-    <p>© 2025 Paulo M.</p>
-  </footer>
+<div class="pagination">
+    <button id="prev">Anterior</button>
+    <span id="page-info"></span>
+    <button id="next">Próxima</button>
+</div>
 
-  <script src="script.js"></script>
+
+ <script src="script.js"></script>
 </body>
 </html>
