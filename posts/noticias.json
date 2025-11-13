@@ -1,5 +1,6 @@
 {
   "noticias": [
+    
   {
     "data": "13/11/2025",
     "jornal": "Jornal dos Municípios",
@@ -426,9 +427,506 @@
         ],
         "resumo": "Decisão judicial determinou sequestro de R$ 13 milhões das contas da Prefeitura de Petrópolis para pagamento de aposentados do INPAS. Denúncia foi protocolada no TCE-RJ por atrasos sistemáticos.",
         "link": "https://tribunadepetropolis.com.br/noticias/justica-determina-sequestro-de-13-milhoes-de-reais-das-contas-da-prefeitura-para-pagar-aposentados/"
-    }
+    },
+        {
+        "data": "04/11/2025",
+        "jornal": "Correio da Manhã",
+        "titulo": "ESCÂNDALO NO CIMSERRA: LICITAÇÃO MILIONÁRIA PODE SER ENTREGUE À EMPRESA FANTASMA",
+        "temas_relacionados": [
+            "Terceirização",
+            "Contrato de gestão",
+            "Trabalho",
+            "TCE-RJ"
+        ],
+        "resumo": "Denúncia sobre licitação de R$ 300 milhões vencida pela empresa LIONS, suspeita de ser fantasma. Documentos indicam sede inexistente e falhas na proposta. Especialistas recomendam representação ao TCE-RJ e ao MP.",
+        "link": "https://monitoring.knewin.com/front/noticia/?k=TVRFeE9UVTROamsxSmpJeU5qST0=&id=111958695"
+    },
+    {
+        "data": "04/11/2025",
+        "jornal": "O Dia RJ / A Voz da Cidade",
+        "titulo": "Deputados da Alerj discutem orçamento do Estado para 2026, que prevê déficit de R$ 18,9 bilhões",
+        "temas_relacionados": [
+            "Receita",
+            "Impostos",
+            "Royalties",
+            "Dívida ativa",
+            "Saúde",
+            "Assistência social",
+            "Previdência social",
+            "Emendas parlamentares",
+            "TCE-RJ"
+        ],
+        "resumo": "Discussão do PLOA 2026. Destaque para despesas com saúde, assistência social e previdência. TCE-RJ incluído na divisão orçamentária.",
+        "link": "https://avozdacidade.com/wp/deputados-da-alerj-discutem-orcamento-do-estado-para-2026-que-preve-deficit-de-r-189-bilhoes/"
+    },
+    {
+        "data": "04/11/2025",
+        "jornal": "G1.Globo",
+        "titulo": "Reajuste na conta de água vai impactar cidades da Região Serrana do Rio a partir de dezembro",
+        "temas_relacionados": [
+            "Receita",
+            "Saneamento",
+            "TCE-RJ"
+        ],
+        "resumo": "TCE-RJ anulou acordo entre Águas do Rio e Cedae, provocando reajuste de até 15,89% nas tarifas. Tribunal exige esclarecimentos sobre dados de esgoto.",
+        "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2025/11/03/reajuste-na-conta-de-agua-vai-impactar-cidades-da-regiao-serrana-do-rio-a-partir-de-dezembro.ghtml"
+    },
+    {
+        "data": "04/11/2025",
+        "jornal": "Rádio Tupi 96.5 AM",
+        "titulo": "Tarifa água ficará mais cara a partir de dezembro",
+        "temas_relacionados": [
+            "Receita",
+            "Tributos",
+            "Cedae",
+            "TCE-RJ",
+            "CAD-Receita"
+        ],
+        "resumo": "Conselheiro José Gomes Graciosa, do TCE-RJ, suspende acordo que previa desconto de 24% na compra de água.",
+        "link": "https://monitoring.knewin.com/front/noticia/?k=TVRFeE9UVXhPRGc1SmpJeU5qST0=&id=111951889"
+    },
+    {
+        "data": "04/11/2025",
+        "jornal": "Jornal Extra RJ",
+        "titulo": "PcD: projeto de lei prevê benefício para servidores",
+        "temas_relacionados": [
+            "Trabalho",
+            "Assistência social",
+            "Desenvolvimento social"
+        ],
+        "resumo": "Projeto propõe redução de jornada para servidores que cuidam de PcDs, sem prejuízo de remuneração.",
+        "link": "http://alpha.multclipp.com.br/n/iWrecIlGGvba3Rkrd1wA6IgzK6GBItrc0"
+    },
+    {
+        "data": "04/11/2025",
+        "jornal": "Correio da Manhã",
+        "titulo": "TCMRio segue TCU e questiona a venda da Ciclus",
+        "temas_relacionados": [
+            "TCMRio",
+            "TCU",
+            "Contratos de gestão",
+            "Financiamento público"
+        ],
+        "resumo": "Venda da Ciclus é questionada por TCMRio e TCU. BNDES e Caixa resistem à operação por dívida de R$ 800 milhões.",
+        "link": "https://www.correiodamanha.com.br/colunistas/magnavita/2025/11/231338-coluna-magnavita-tcmrio-segue-tcu-e-questiona-a-venda-da-ciclus-com-reflexos-no-financiamento-do-bndes-e-caixa.html"
+    },
+
+    {
+        "data": "03/11/2025",
+        "jornal": "Correio da Manhã",
+        "titulo": "Escândalo no CIMSERRA: Licitação milionária pode ser entregue à empresa fantasma",
+        "temas_relacionados": [
+            "Terceiro setor",
+            "Receita",
+            "Trabalho",
+            "TCE-RJ"
+        ],
+        "resumo": "Licitação de R$ 300 milhões do consórcio CIMSERRA é alvo de denúncias. Empresa vencedora, LIONS Serviços Inteligentes, é acusada de não existir operacionalmente. Especialistas alertam para risco de lesão ao erário. O caso foi encaminhado ao TCE-RJ e ao Ministério Público.",
+        "link": "https://www.correiodamanha.com.br/colunistas/magnavita/2025/11/231063-coluna-magnavita-escandalo-no-cimserra-licitacao-milionaria-pode-ser-entregue-a-empresa-fantasma.html"
+    },
+    {
+        "data": "03/11/2025",
+        "jornal": "Hora H - Nova Iguaçu",
+        "titulo": "Conta de água fica mais cara a partir de dezembro",
+        "temas_relacionados": [
+            "Receita",
+            "Tributos",
+            "Saneamento",
+            "TCE-RJ"
+        ],
+        "resumo": "Reajuste de até 15,89% na tarifa de água da Águas do Rio. O TCE-RJ suspendeu acordo que previa desconto de 24% na compra de água da Cedae. A decisão pode impactar consumidores e reacende debate sobre segurança jurídica nas concessões.",
+        "link": "https://s3-sa-east-1.amazonaws.com/multclipp/arquivos/noticias/2025/11/03/111950690/v1.5_111950690_e10321fd.jpg"
+    },
+    {
+        "data": "03/11/2025",
+        "jornal": "O Dia RJ",
+        "titulo": "Araruama de volta ao mapa: uma cidade que se reconstrói",
+        "temas_relacionados": [
+            "Desenvolvimento econômico",
+            "Desenvolvimento social",
+            "TCE-RJ"
+        ],
+        "resumo": "Prefeita de Araruama destaca ações de revitalização urbana, turismo e infraestrutura. Menciona que todas as contas da gestão anterior foram reprovadas pelo TCE-RJ, o que afetou a credibilidade do município.",
+        "link": "https://odia.ig.com.br/opiniao/2025/11/7155388-daniela-soares-araruama-de-volta-ao-mapa-uma-cidade-que-se-reconstroi.html"
+    },
+    {
+        "data": "03/11/2025",
+        "jornal": "Correio da Manhã",
+        "titulo": "Câmara de Areal rejeita cassação de Gutinho",
+        "temas_relacionados": [
+            "Educação",
+            "Receita",
+            "TCE-RJ"
+        ],
+        "resumo": "Prefeito de Areal é acusado de superfaturamento na compra de computadores. O TCE-RJ identificou sobrepreço de R$ 544 mil. Apesar disso, a Câmara rejeitou abertura de comissão processante.",
+        "link": "https://www.correiodamanha.com.br/serrano/2025/11/230915-camara-de-areal-rejeita-cassacao-de-gutinho.html"
+    },
+    {
+        "data": "03/11/2025",
+        "jornal": "Correio da Manhã",
+        "titulo": "CSN terá que ressarcir INSS por despesas com acidente",
+        "temas_relacionados": [
+            "Previdência Social",
+            "Saúde",
+            "Trabalho"
+        ],
+        "resumo": "CSN foi condenada a ressarcir o INSS por negligência em acidente que causou mortes. A decisão judicial aplica a Lei 8.213/1991 e reconhece falhas estruturais e de segurança no ambiente de trabalho.",
+        "link": "https://www.correiodamanha.com.br/sul-fluminense/regiao-do-vale/2025/11/230947-csn-tera-que-ressarcir-inss-por-despesas-com-acidente.html"
+    },
+    {
+        "data": "03/11/2025",
+        "jornal": "Tempo Real RJ",
+        "titulo": "Sindicato de policiais civis do Rio pede adicional de 100% sobre pensão por morte",
+        "temas_relacionados": [
+            "Previdência Social",
+            "Trabalho",
+            "Alerj"
+        ],
+        "resumo": "Sindpol-RJ solicita regulamentação de adicional de 100% sobre pensão por morte para familiares de policiais civis mortos em serviço. A medida está prevista na Lei Orgânica da Polícia Civil aprovada pela Alerj.",
+        "link": "https://temporealrj.com/sindicato-de-policiais-civis-do-rio-pede-adicional-de-100-sobre-pensao-por-morte/"
+    },
+    {
+        "data": "03/11/2025",
+        "jornal": "O Globo Online",
+        "titulo": "Reajuste da conta de água será de 10,97% na Zona Sul e de 15,89% no Centro e na Zona Norte do Rio",
+        "temas_relacionados": [
+            "Receita",
+            "Tributos",
+            "Saneamento",
+            "TCE-RJ"
+        ],
+        "resumo": "Reajuste tarifário da Águas do Rio impacta 27 cidades. O TCE-RJ suspendeu acordo que previa desconto na compra de água da Cedae. A decisão pode ser revista até dezembro.",
+        "link": "https://oglobo.globo.com/rio/noticia/2025/11/02/reajuste-da-conta-de-agua-sera-de-1097percent-na-zona-sul-e-de-1589percent-no-centro-e-na-zona-norte-do-rio.ghtml"
+    },
 
   
-]
+    {
+        "data": "27/10/2025",
+        "jornal": "Tempo Real RJ",
+        "titulo": "TCE: governo do estado pagou por 80 quilômetros de sarjeta que nunca existiram, em obra de pavimentação nas ruas de Barra Mansa",
+        "temas_relacionados": [
+            "TCE-RJ",
+            "Contrato de gestão",
+            "Fiscalização",
+            "Infraestrutura",
+            "CAD-Receita"
+        ],
+        "resumo": "O TCE-RJ identificou que o governo estadual pagou por 80 mil metros de sarjetas inexistentes em obras de pavimentação em Barra Mansa. A auditoria revelou que apenas 8 das 101 ruas listadas receberam o serviço. Parte da obra foi executada sem cobertura contratual, o que é ilegal.",
+        "link": "https://temporealrj.com/tce-governo-do-estado-pagou-por-80-quilometros-de-sarjeta-que-nunca-existiram-em-obra-de-pavimentacao-nas-ruas-de-barra-mansa/"
+    },
+    {
+        "data": "27/10/2025",
+        "jornal": "Jornal O Dia RJ",
+        "titulo": "‘O nosso foco é fazer do Rio uma cidade empreendedora’",
+        "temas_relacionados": [
+            "Desenvolvimento econômico",
+            "Comércio e serviços",
+            "Saúde",
+            "Indústria",
+            "CAD-Desenvolvimento"
+        ],
+        "resumo": "Josier Vilar, presidente da Associação Comercial do Rio, defende transformar o Rio em um hub de inovação, com foco em turismo, esporte e saúde. Destaca o Fórum Inovação e Saúde e a Fisweek como iniciativas para consolidar o protagonismo do estado em políticas públicas e assistência médica equânime.",
+        "link": "https://monitoring.knewin.com/front/noticia/?k=TVRFeE5qWTRNekUySmpJeU5qST0=&id=111668316"
+    },
+    {
+        "data": "27/10/2025",
+        "jornal": "CNN Brasil",
+        "titulo": "Governo aposta em “jabuti fiscal” para retomar ajustes e elevar arrecadação",
+        "temas_relacionados": [
+            "Receita",
+            "Impostos",
+            "Tributos",
+            "Ajuste fiscal",
+            "TCU",
+            "CAD-Receita"
+        ],
+        "resumo": "O governo federal aposta em estratégias como o “jabuti fiscal” para aprovar medidas que aumentem a arrecadação e cumpram metas fiscais. O TCU alerta que, a partir de 2026, será irregular perseguir apenas o piso da meta fiscal.",
+        "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/governo-aposta-em-jabuti-fiscal-para-retomar-ajustes-e-elevar-arrecadacao/"
+    },
+    {
+        "data": "27/10/2025",
+        "jornal": "Folha de S. Paulo",
+        "titulo": "Educação ainda busca recursos para comprar livros didáticos para 2026",
+        "temas_relacionados": [
+            "Receita",
+            "Orçamento público",
+            "TCU",
+            "Assistência social",
+            "CAD-Desenvolvimento"
+        ],
+        "resumo": "O Ministério da Educação busca elevar o orçamento do PNLD para garantir a entrega de livros didáticos em 2026. O TCU investiga possíveis falhas na aquisição. Há risco de não entrega de materiais em braile.",
+        "link": "https://monitoring.knewin.com/front/noticia/?k=TVRFeE5qWTJOakF3SmpJeU5qST0=&id=111666600"
+    },
+    {
+        "data": "27/10/2025",
+        "jornal": "Correio Braziliense",
+        "titulo": "Serpro lança IA do governo",
+        "temas_relacionados": [
+            "TCU",
+            "Tecnologia pública",
+            "Gestão pública",
+            "Desenvolvimento institucional"
+        ],
+        "resumo": "O Serpro lança o ConversAI Studio, uma IA generativa para uso exclusivo de órgãos públicos. A ferramenta permite consultas seguras a bases institucionais. O TCU é citado como exemplo de uso responsável de IA.",
+        "link": "https://www.correiobraziliense.com.br/politica/2025/10/7279348-serpro-lanca-inteligencia-artificial-do-governo.html"
+    },
+    {
+        "data": "27/10/2025",
+        "jornal": "Folha de S. Paulo",
+        "titulo": "Deputado aciona TCU contra locação de SUVs de luxo pelo Senado Federal",
+        "temas_relacionados": [
+            "TCU",
+            "Receita",
+            "Gastos públicos",
+            "Controle de despesas"
+        ],
+        "resumo": "O deputado Leonardo Siqueira (Novo-SP) acionou o TCU para investigar contrato de R$ 47,7 milhões para locação de SUVs de luxo pelo Senado. O contrato é considerado incompatível com diretrizes de racionalidade e eficiência.",
+        "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2025/10/deputado-aciona-tcu-contra-locacao-de-suvs-de-luxo-pelo-senado-federal.shtml"
+    },
+    {
+        "data": "23/10/2025",
+        "jornal": "Jornal O Globo",
+        "titulo": "Novos modelos de concessão aumentam segurança jurídica",
+        "temas_relacionados": [
+            "TCE-RJ",
+            "Concessões",
+            "Infraestrutura",
+            "Desenvolvimento econômico",
+            "Contrato de gestão"
+        ],
+        "resumo": "A matéria aborda a importância de contratos bem estruturados para concessões públicas, destacando a atuação do TCE-RJ na fiscalização preventiva e no uso de inteligência artificial para análise de documentos. O presidente do TCE-RJ, Marcio Pacheco, fala sobre o Procedimento Prévio de Verificação e a transição da concessão da SuperVia.",
+        "link": "https://monitoring.knewin.com/front/noticia/?k=TVRFeE5UQTRNekEySmpJeU5qST0=&id=111508306"
+    },
+    {
+        "data": "23/10/2025",
+        "jornal": "Jornal O Globo",
+        "titulo": "Estado do Rio moderniza gestão com planejamento e transparência",
+        "temas_relacionados": [
+            "TCE-RJ",
+            "Desenvolvimento social",
+            "Transparência",
+            "Concessões",
+            "CEDAE"
+        ],
+        "resumo": "A reportagem destaca os avanços na gestão pública do Estado do Rio, com foco em transparência e tecnologia. Cita a atuação do TCE-RJ na concessão da CEDAE e na retomada das obras da estação Gávea do metrô.",
+        "link": "https://monitoring.knewin.com/front/noticia/?k=TVRFeE5UQTRNekEzSmpJeU5qST0=&id=111508307"
+    },
+    {
+        "data": "23/10/2025",
+        "jornal": "Jornal A Tribuna RJ",
+        "titulo": "Reforma Tributária em Debate",
+        "temas_relacionados": [
+            "TCE-RJ",
+            "Reforma tributária",
+            "Receita",
+            "Impostos",
+            "Municípios"
+        ],
+        "resumo": "O TCE-RJ promoveu seminário sobre os impactos da reforma tributária para estados e municípios, com foco em capacitação de gestores e prevenção de falhas.",
+        "link": "https://monitoring.knewin.com/front/noticia/?k=TVRFeE5UQTBORE16SmpJeU5qST0=&id=111504433"
+    },
+    {
+        "data": "23/10/2025",
+        "jornal": "ALERJ",
+        "titulo": "ALERJ limita até dezembro de 2026 uso pelo governo do estado de recursos do RioPrevidência para pagar dívida com a União",
+        "temas_relacionados": [
+            "Previdência social",
+            "Royalties",
+            "Dívida ativa",
+            "Receita",
+            "TCE-RJ"
+        ],
+        "resumo": "A matéria trata da aprovação do Projeto de Lei 6.035/25, que autoriza o uso de recursos do RioPrevidência para pagamento da dívida estadual com a União, com atuação do TCE-RJ na supervisão.",
+        "link": "https://www.alerj.rj.gov.br/Visualizar/Noticia/80174"
+    },
+    {
+        "data": "23/10/2025",
+        "jornal": "Jornal de Sábado",
+        "titulo": "Cabo Frio, Araruama, São Pedro da Aldeia, Armação dos Búzios e Iguaba Grande têm irregularidades que incluem uso indevido de royalties",
+        "temas_relacionados": [
+            "TCE-RJ",
+            "Royalties",
+            "Responsabilidade fiscal",
+            "Receita",
+            "Dívida ativa"
+        ],
+        "resumo": "O TCE-RJ emitiu pareceres contrários às contas de cinco municípios da Região dos Lagos, apontando irregularidades como uso indevido de royalties e desequilíbrio financeiro.",
+        "link": "https://jornaldesabado.net/cabo-frio-araruama-sao-pedro-da-aldeia-armacao-dos-buzios-e-iguaba-grande-tem-irregularidades-que-incluem-uso-indevido-de-royalties/"
+    },
+    {
+        "data": "23/10/2025",
+        "jornal": "Ministério Público do RJ",
+        "titulo": "MPRJ obtém decisão que obriga Rio Bonito a divulgar uso dos recursos repassados pelo Estado da privatização da CEDAE",
+        "temas_relacionados": [
+            "TCE-RJ",
+            "CEDAE",
+            "Receita",
+            "Transparência",
+            "Desenvolvimento social"
+        ],
+        "resumo": "Decisão judicial obriga o município de Rio Bonito a divulgar informações sobre o uso dos recursos da concessão da CEDAE, com base em norma técnica conjunta do TCE-RJ e MPRJ.",
+        "link": "https://www.mprj.mp.br/visualizar?noticiaId=200612"
+    },
+    {
+        "data": "23/10/2025",
+        "jornal": "Rádio BandNews 90.3 FM",
+        "titulo": "MP recomenda rejeição das contas da Prefeitura de Magé",
+        "temas_relacionados": [
+            "TCE-RJ",
+            "Saúde",
+            "Educação",
+            "Responsabilidade fiscal"
+        ],
+        "resumo": "O Ministério Público de Contas recomenda ao TCE-RJ a rejeição das contas da Prefeitura de Magé por não aplicar o mínimo constitucional em saúde e educação.",
+        "link": "https://monitoring.knewin.com/front/noticia/?k=TVRFeE5EVTFOVFV4SmpJeU5qST0=&id=111455551"
+    },
+    {
+        "data": "23/10/2025",
+        "jornal": "ALERJ",
+        "titulo": "Alerj aprova usos para sobras do Rioprevidência",
+        "temas_relacionados": [
+            "Previdência social",
+            "Royalties",
+            "Dívida ativa",
+            "Receita",
+            "TCE-RJ"
+        ],
+        "resumo": "A Assembleia Legislativa aprova projeto que permite o uso de sobras do fundo do Rioprevidência para pagar dívidas e investir em segurança pública. O projeto é criticado por deputados da oposição e será contestado judicialmente.",
+        "link": "https://monitoring.knewin.com/front/noticia/?k=TVRFeE5UQTVNakEySmpJeU5qST0=&id=111509206"
+    },
+    {
+        "data": "23/10/2025",
+        "jornal": "G1.Globo",
+        "titulo": "Maracanã, 6°BPM e imóveis da Uerj entram em lista de bens que podem ser vendidos pelo Governo do RJ",
+        "temas_relacionados": [
+            "Patrimônio público",
+            "Desenvolvimento econômico",
+            "TCE-RJ",
+            "ALERJ"
+        ],
+        "resumo": "A CCJ da Alerj aprova projeto que inclui o Complexo do Maracanã e imóveis da UERJ na lista de bens públicos que podem ser vendidos para reduzir o déficit estadual.",
+        "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2025/10/23/maracana-6bpm-e-imoveis-da-uerj-entram-em-lista-de-bens-que-podem-ser-vendidos-pelo-governo-do-rj-veja-lista-completa.ghtml"
+    },
+    {
+        "data": "23/10/2025",
+        "jornal": "O Globo Online",
+        "titulo": "Deputados do Rio querem vender o Maracanã: complexo esportivo e aldeia poderiam render R$2 bi, estima parlamentar",
+        "temas_relacionados": [
+            "Patrimônio público",
+            "Desenvolvimento econômico",
+            "TCE-RJ",
+            "ALERJ"
+        ],
+        "resumo": "A CCJ da Alerj aprova projeto que inclui o Complexo do Maracanã e a Aldeia Maracanã na lista de imóveis que podem ser vendidos. O TCE-RJ é citado como órgão que acompanha o processo.",
+        "link": "https://monitoring.knewin.com/front/noticia/?k=TVRFeE5UQTRNekUySmpJeU5qST0=&id=111508316"
+    },
+{
+    "data": "23/10/2025",
+    "jornal": "IstoÉ Dinheiro Online",
+    "titulo": "Alerj autoriza RJ a usar excedentes de royalties de petróleo no pagamento da dívida com a União",
+    "temas_relacionados": [
+        "Royalties",
+        "Dívida ativa",
+        "Previdência social",
+        "TCE-RJ",
+        "ALERJ"
+    ],
+    "resumo": "A Alerj aprova projeto que permite o uso de recursos excedentes dos royalties do petróleo, originalmente destinados ao Rioprevidência, para pagamento da dívida com a União. O projeto prevê salvaguardas para não comprometer aposentadorias e pensões.",
+    "link": "https://istoedinheiro.com.br/alerj-autoriza-rj-a-usar-excedentes-de-royalties-de-petroleo-no-pagamento-da-divida-com-a-uniao"
+},
+{
+    "data": "23/10/2025",
+    "jornal": "O Dia RJ Online",
+    "titulo": "Alerj autoriza Rio a usar excedentes de royalties de petróleo no pagamento da dívida com a União",
+    "temas_relacionados": [
+        "Royalties",
+        "Previdência social",
+        "Dívida ativa",
+        "TCE-RJ"
+    ],
+    "resumo": "Reforça os detalhes do projeto aprovado pela Alerj, destacando que os recursos serão usados apenas se houver receitas suficientes para cobrir obrigações previdenciárias.",
+    "link": "https://odia.ig.com.br/rio-de-janeiro/2025/10/7150574-alerj-autoriza-rio-a-usar-excedentes-de-royalties-de-petroleo-no-pagamento-da-divida-com-a-uniao.html"
+},
+{
+    "data": "23/10/2025",
+    "jornal": "Tempo Real RJ",
+    "titulo": "Uso de royalties do Rioprevidência para pagar dívida do estado é aprovado pela Alerj",
+    "temas_relacionados": [
+        "Royalties",
+        "Previdência social",
+        "Dívida ativa",
+        "TCE-RJ"
+    ],
+    "resumo": "A matéria detalha a votação do projeto na Alerj, os protestos de servidores e os argumentos do governo sobre a sustentabilidade do Rioprevidência.",
+    "link": "https://temporealrj.com/uso-de-royalties-do-rioprevidencia-para-pagar-divida-do-estado-e-aprovado-pela-alerj/"
+},
+{
+    "data": "23/10/2025",
+    "jornal": "Tribuna da Serra",
+    "titulo": "CCJ da Alerj amplia lista de imóveis que irão a leilão e inclui o Complexo do Maracanã",
+    "temas_relacionados": [
+        "Patrimônio público",
+        "Desenvolvimento econômico",
+        "TCE-RJ",
+        "ALERJ"
+    ],
+    "resumo": "A CCJ aprova emendas ao projeto de lei que autoriza o leilão de imóveis públicos, incluindo o Maracanã e imóveis da UERJ. O objetivo é reduzir o déficit estadual.",
+    "link": "https://tribunadaserra.com.br/ccj-da-alerj-amplia-lista-de-imoveis-que-irao-a-leilao-e-inclui-o-complexo-do-maracana/"
+},
+{
+    "data": "23/10/2025",
+    "jornal": "Diário do Poder",
+    "titulo": "Terrenos da UERJ e área da Aldeia Maracanã entram em plano de leilão",
+    "temas_relacionados": [
+        "Patrimônio público",
+        "Desenvolvimento econômico",
+        "TCE-RJ",
+        "ALERJ"
+    ],
+    "resumo": "A matéria detalha a inclusão de imóveis da UERJ e da Aldeia Maracanã no plano de leilão aprovado pela CCJ da Alerj, com justificativas sobre uso subutilizado.",
+    "link": "https://diariodopoder.com.br/brasil-e-regioes/terrenos-da-uerj-e-area-da-aldeia-maracana-entram-em-plano-de-leilao"
+},
+{
+    "data": "23/10/2025",
+    "jornal": "G1.Globo",
+    "titulo": "Alerj aprova uso de recursos da previdência para pagar dívida do RJ com a União",
+    "temas_relacionados": [
+        "Previdência social",
+        "Royalties",
+        "Dívida ativa",
+        "Receita",
+        "TCE-RJ"
+    ],
+    "resumo": "A Alerj aprova projeto que permite o uso de recursos da previdência (via royalties do petróleo) para pagar dívida com a União. A medida gerou protestos e recebeu emenda que limita sua validade até 2026.",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2025/10/22/alerj-aprova-uso-de-recursos-da-previdencia-para-pagar-divida-do-rj-com-a-uniao.ghtml"
+},
+{
+    "data": "23/10/2025",
+    "jornal": "Terra",
+    "titulo": "Maracanã está na lista de imóveis que podem ser vendidos pelo Governo do RJ",
+    "temas_relacionados": [
+        "Patrimônio público",
+        "Desenvolvimento econômico",
+        "TCE-RJ",
+        "ALERJ"
+    ],
+    "resumo": "O Governo do RJ inclui o Complexo do Maracanã e a Aldeia Maracanã em projeto de lei para venda de imóveis públicos. O objetivo é quitar parte da dívida com a União.",
+    "link": "https://www.terra.com.br/esportes/maracana-esta-na-lista-de-imoveis-que-podem-ser-vendidos-pelo-governo-do-rj,2e250dd514503399b445fe4e92294a661u79venz.html"
+},
+{
+    "data": "23/10/2025",
+    "jornal": "O Globo Online",
+    "titulo": "Maracanã entra na lista de imóveis que o estado quer vender",
+    "temas_relacionados": [
+        "Patrimônio público",
+        "Desenvolvimento econômico",
+        "TCE-RJ",
+        "ALERJ"
+    ],
+    "resumo": "A CCJ da Alerj aprova parecer que inclui o Maracanã e a Aldeia Maracanã na lista de imóveis públicos que podem ser vendidos. A medida visa arrecadar recursos para o estado.",
+    "link": "https://monitoring.knewin.com/front/noticia/?k=TVRFeE5EZzFORFF5SmpJeU5qST0=&id=111485442"
+}
+
+ ]
 
 }
