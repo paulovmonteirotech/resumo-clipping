@@ -1,5 +1,92 @@
 {
   "noticias": [
+  {
+    "data": "13/11/2025",
+    "jornal": "Jornal dos Municípios",
+    "titulo": "Câmara de Itaperuna reprova contas do ex-prefeito Alfredão referentes a 2023",
+    "temas_relacionados": [
+      "Tribunal de Contas",
+      "Itaperuna",
+      "Contas públicas",
+      "Administração municipal",
+      "Irregularidades"
+    ],
+    "resumo": "A Câmara Municipal de Itaperuna reprovou as contas do ex-prefeito Alfredão referentes ao exercício de 2023, seguindo parecer do TCE-RJ que apontou irregularidades como não repasse previdenciário e déficit orçamentário.",
+    "link": "https://jornaldosmunicipiosrj.com.br/noticia/8014/camara-de-itaperuna-reprova-contas-do-ex-prefeito-alfredao-referentes-a-2023.html"
+  },
+  
+  {
+    "data": "13/11/2025",
+    "jornal": "O Dia",
+    "titulo": "TCE-RJ divulga lista de municípios com pendências no exercício de 2026",
+    "temas_relacionados": [
+      "Tribunal de Contas",
+      "Municípios",
+      "Exercício 2026",
+      "Pendências fiscais",
+      "Gestão pública"
+    ],
+    "resumo": "O TCE-RJ publicou relatório com os municípios que apresentam pendências na prestação de contas para o exercício de 2026. A medida visa garantir maior controle e transparência na gestão dos recursos públicos.",
+    "link": "https://odia.ig.com.br/rio-de-janeiro/2025/11/10/tce-rj-divulga-lista-de-municipios-com-pendencias-no-exercicio-de-2026.html"
+  },
+  {
+    "data": "13/11/2025",
+    "jornal": "Jornal O Globo",
+    "titulo": "Rioprevidência investiu em fundo de ações da Ambipar",
+    "temas_relacionados": [
+      "Tribunal de Contas",
+      "Rioprevidência",
+      "Ambipar",
+      "Banco Master",
+      "Investimentos públicos"
+    ],
+    "resumo": "O Rioprevidência investiu R$ 100 milhões em fundo composto majoritariamente por ações da Ambipar, empresa em recuperação judicial. O TCE-RJ alertou sobre riscos e determinou a suspensão de novos investimentos em instituições financeiras do conglomerado do Banco Master.",
+    "link": "https://oglobo.globo.com/economia/financas/noticia/2025/11/13/rioprevidencia-investiu-r-100-milhoes-em-acoes-da-ambipar-que-esta-em-recuperacao-judicial-via-banco-master.ghtml"
+  },
+  {
+    "data": "13/11/2025",
+    "jornal": "G1.Globo",
+    "titulo": "Câmara de Itaperuna reprova contas do ex-prefeito Alfredão referentes a 2023",
+    "temas_relacionados": [
+      "Tribunal de Contas",
+      "Itaperuna",
+      "Contas públicas",
+      "Administração municipal",
+      "Irregularidades"
+    ],
+    "resumo": "A Câmara Municipal de Itaperuna reprovou as contas do ex-prefeito Alfredão referentes ao exercício de 2023, seguindo parecer do TCE-RJ que apontou irregularidades como não repasse previdenciário e déficit orçamentário.",
+    "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2025/11/12/camara-de-itaperuna-reprova-contas-do-ex-prefeito-alfredao-referentes-a-2023.ghtml"
+  },
+  {
+    "data": "13/11/2025",
+    "jornal": "G1.Globo",
+    "titulo": "Governo do Rio assina contrato de R$ 250 milhões com empresa investigada por irregularidades",
+    "temas_relacionados": [
+      "Tribunal de Contas",
+      "Educação",
+      "Contratos públicos",
+      "Superfaturamento",
+      "Kits de robótica"
+    ],
+    "resumo": "O governo do Rio assinou contrato de R$ 250 milhões com consórcio investigado por irregularidades na venda de kits de robótica para escolas públicas. O TCE-RJ e o Ministério Público investigam suspeitas de superfaturamento e problemas na licitação.",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2025/11/12/governo-do-rio-assina-contrato-com-empresa-investigada.ghtml"
+  },
+  {
+    "data": "13/11/2025",
+    "jornal": "Tempo Real RJ",
+    "titulo": "Thiago Pampolha vota pela manutenção de acordo de R$ 900 milhões entre Cedae e Águas do Rio",
+    "temas_relacionados": [
+      "Tribunal de Contas",
+      "Cedae",
+      "Águas do Rio",
+      "Thiago Pampolha",
+      "José Gomes Graciosa"
+    ],
+    "resumo": "O conselheiro do TCE-RJ, Thiago Pampolha, votou pela manutenção de acordo de R$ 900 milhões entre Cedae e Águas do Rio, contrariando decisão cautelar do relator José Gomes Graciosa. A votação terminou empatada e será decidida na próxima sessão.",
+    "link": "https://temporealrj.com/tce-thiago-pampolha-discorda-de-graciosa-e-vota-para-manter-acordo-de-r-900-milhoes-entre-cedae-e-aguas-do-rio/"
+  },
+
+
         {
         "data": "12/11/2025",
         "jornal": "Jornal O Estado de S. Paulo",
