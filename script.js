@@ -1,5 +1,5 @@
 let noticiasData = [];
-const itemsPerPage = 15;
+const itemsPerPage = 50;
 let currentPage = 1;
 let filteredNews = [];
 
