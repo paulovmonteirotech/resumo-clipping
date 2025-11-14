@@ -1103,9 +1103,371 @@
         ],
         "resumo": "Reforça o papel do TCE-RJ como mediador de soluções em grandes obras públicas.",
         "link": "https://extra.globo.com/dialogos-rj/noticia/2025/10/dialogos-rj-retirada-da-agua-da-estacao-gavea-do-metro-termina-nas-proximas-semanas-diz-presidente-da-concessionaria.ghtml"
+    },
+
+    {
+        "data": "13/10/2025",
+        "jornal": "Correio da Manhã",
+        "titulo": "Marco Antônio Alencar retorna ao TCE e entregará aposentadoria",
+        "temas_relacionados": [
+        "TCE-RJ",
+        "Tribunal de Contas",
+        "Aposentadoria",
+        "Administração Pública"
+        ],
+        "resumo": "O conselheiro Marco Antônio Alencar reassumirá o cargo no TCE-RJ após decisão do ministro Kassio Nunes Marques, para protocolar aposentadoria. A matéria destaca o retorno após afastamento e o papel do Tribunal de Contas.",
+        "link": "https://www.correiodamanha.com.br/colunistas/magnavita/2025/10/226576-coluna-magnavita-marco-antonio-alencar-retorna-ao-tce-e-entregara-aposentadoria.html"
+    },
+    {
+        "data": "13/10/2025",
+        "jornal": "Correio Braziliense",
+        "titulo": "Lula deve definir sobre STF nesta semana",
+        "temas_relacionados": [
+        "TCU",
+        "Controle Externo",
+        "Contas Públicas",
+        "Administração Federal"
+        ],
+        "resumo": "Matéria nacional cita o ministro Bruno Dantas (TCU) como possível indicado de Lula ao STF. Discute o papel dos tribunais de contas na política e a importância da fiscalização financeira da União.",
+        "link": "https://monitoring.knewin.com/front/noticia/?k=TVRFeE1EVTJORGt3SmpJeU5qST0=&id=111056490"
+    },
+    {
+        "data": "13/10/2025",
+        "jornal": "Tempo Real RJ",
+        "titulo": "O orçamento do estado para 2026 tem Casa Civil e Turismo entre os afortunados; Cidades, Agricultura e Habitação na lista de perdedores",
+        "temas_relacionados": [
+        "Orçamento Estadual",
+        "Habitação",
+        "Agricultura",
+        "Receita",
+        "Finanças Públicas",
+        "Alerj"
+        ],
+        "resumo": "O PLOA 2026 mostra déficit de R$ 18,94 bi. Secretarias de Agricultura, Cidades e Habitação sofrem cortes expressivos, enquanto Casa Civil e Turismo ampliam recursos.",
+        "link": "https://temporealrj.com/o-orcamento-do-estado-para-2026-tem-iterj-e-casa-civil-no-topo-do-ranking-de-quem-ganha-cidades-e-habitacao-entre-os-perdedores/"
+    },
+    {
+        "data": "13/10/2025",
+        "jornal": "Tribuna de Petrópolis",
+        "titulo": "Interdição da Refinaria de Manguinhos aumenta arrecadação de SP e RJ em R$ 200 milhões",
+        "temas_relacionados": [
+        "receita",
+        "impostos",
+        "ICMS",
+        "dívida ativa",
+        "indústria",
+        "Alerj"
+        ],
+        "resumo": "A interdição da Refit elevou a arrecadação de ICMS de RJ e SP em R$ 200 mi. O IBP cobra aprovação do PLP 125 contra devedores contumazes e critica aumento de carga tributária proposto na Alerj.",
+        "link": "https://tribunadepetropolis.com.br/noticias/interdicao-da-refinaria-de-manguinhos-aumenta-arrecadacao-de-sp-e-rj-em-r-200-milhoes/"
+    },
+    {
+        "data": "13/10/2025",
+        "jornal": "Tempo Real RJ",
+        "titulo": "Vereadora propõe novo Estatuto das Blitzes em Campos, em meio a denúncias contra a prefeitura",
+        "temas_relacionados": [
+        "Alerj",
+        "Legislação Municipal",
+        "Gestão Pública",
+        "Mobilidade Urbana"
+        ],
+        "resumo": "Inspirada no Estatuto das Blitzes estadual, a vereadora Thamires Rangel propõe legislação municipal para disciplinar fiscalizações em Campos, após denúncias de abusos.",
+        "link": "https://temporealrj.com/vereadora-propoe-novo-estatuto-das-blitzes-em-campos-em-meio-a-denuncias-contra-a-prefeitura/"
+    },
+    {
+        "data": "13/10/2025",
+        "jornal": "Correio da Manhã",
+        "titulo": "Estado do Rio vira referência contra violência doméstica",
+        "temas_relacionados": [
+        "Assistência Social",
+        "Desenvolvimento Social",
+        "Políticas Públicas",
+        "Reabilitação de Agressores"
+        ],
+        "resumo": "O programa Ser H reduziu a reincidência de crimes domésticos para 1,5 %. Projeto das secretarias da Mulher e de Administração Penitenciária busca ressocialização e prevenção à violência.",
+        "link": "https://www.correiodamanha.com.br/estado-do-rio/2025/10/226332-estado-do-rio-vira-referencia-contra-violencia-domestica.html"
+    },
+    {
+        "data": "13/10/2025",
+        "jornal": "Correio da Manhã",
+        "titulo": "Volta Redonda tem projeto integrado na segurança",
+        "temas_relacionados": [
+        "Desenvolvimento Institucional",
+        "Governo Estadual",
+        "Segurança Pública",
+        "Tecnologia Pública"
+        ],
+        "resumo": "O município é piloto do SISP, sistema estadual de integração de dados de segurança. Projeto do Governo do Rio com apoio do Proderj melhora gestão e transparência.",
+        "link": "https://www.correiodamanha.com.br/sul-fluminense/regiao-do-vale/2025/10/226530-volta-redonda-tem-projeto-integrado-na-seguranca.html"
+    },
+    {
+        "data": "13/10/2025",
+        "jornal": "Correio da Manhã",
+        "titulo": "Intervenções urbanas em bairros de Itaboraí",
+        "temas_relacionados": [
+        "Habitação",
+        "Saneamento",
+        "Infraestrutura",
+        "Desenvolvimento Urbano"
+        ],
+        "resumo": "Obras de drenagem e pavimentação em Itaboraí avançam com 55 % de execução, em parceria entre Prefeitura e Governo do Estado.",
+        "link": "https://www.correiodamanha.com.br/estado-do-rio/2025/10/226570-intervencoes-urbanas-em-bairros-de-itaborai.html"
+    },
+    {
+        "data": "13/10/2025",
+        "jornal": "O Dia",
+        "titulo": "Cedae fará manutenção anual do sistema Imunana-Laranjal na próxima quinta-feira",
+        "temas_relacionados": [
+        "Saúde Pública",
+        "Saneamento",
+        "Infraestrutura"
+        ],
+        "resumo": "Manutenção preventiva interromperá o fornecimento de água por 18 h para limpeza e modernização do sistema que atende 2 milhões de pessoas.",
+        "link": "https://odia.ig.com.br/rio-de-janeiro/2025/10/7144265-cedae-fara-manutencao-anual-do-sistema-imunana-laranjal-na-proxima-quinta-feira.html"
+    },
+    {
+        "data": "13/10/2025",
+        "jornal": "O Dia",
+        "titulo": "SAAE leva nome de Rio das Ostras a destaque em fórum e congresso internacional de saneamento",
+        "temas_relacionados": [
+        "Segurança Pública",
+        "Saneamento",
+        "Sustentabilidade",
+        "Desenvolvimento Regional"
+        ],
+        "resumo": "O SAAE participou de eventos internacionais de saneamento com presença do governador Cláudio Castro e do secretário Bernardo Rossi, destacando práticas de eficiência e gestão sustentável.",
+        "link": "https://odia.ig.com.br/rio-das-ostras/2025/10/7144525-saae-leva-nome-de-rio-das-ostras-a-destaque-em-forum-e-congresso-internacional-de-saneamento.html"
+    }, 
+    {
+        "data": "13/10/2025",
+        "jornal": "O Dia",
+        "titulo": "Teresópolis no centro de debate sobre combate ao crime organizado e prevenção de desastres ambientais",
+        "temas_relacionados": [
+        "Desenvolvimento Regional",
+        "Meio Ambiente",
+        "Segurança",
+        "Gestão Pública"
+        ],
+        "resumo": "O COSUD reuniu sete estados para debater integração em segurança e prevenção de desastres. O assessor Alex Castellar representou o governo Cláudio Castro.",
+        "link": "https://odia.ig.com.br/teresopolis/2025/10/7144344-teresopolis-no-centro-de-debate-sobre-combate-ao-crime-organizado-e-prevencao-de-desastres-ambientais.html"
+    },
+    {
+        "data": "13/10/2025",
+        "jornal": "O Dia",
+        "titulo": "ENTREVISTA ANA CAROLINA MEDEIROS, PRESIDENTE DA ABAV",
+        "temas_relacionados": [
+        "Comércio e Serviços",
+        "Turismo",
+        "Desenvolvimento Econômico",
+        "Emprego e Renda"
+        ],
+        "resumo": "A presidente da ABAV Nacional, Ana Carolina Medeiros, destaca o impacto econômico de R$ 54 mi da feira ABAV Expo e seu papel no turismo sustentável e geração de empregos.",
+        "link": "https://monitoring.knewin.com/front/noticia/?k=TVRFeE1EVTFOemMwSmpJeU5qST0=&id=111055774"
+    },
+    {
+        "data": "13/10/2025",
+        "jornal": "Correio da Manhã",
+        "titulo": "30 anos dos Juizados Especiais",
+        "temas_relacionados": [
+        "Acesso à Justiça",
+        "Cidadania",
+        "Políticas Institucionais",
+        "Desenvolvimento Social"
+        ],
+        "resumo": "Reportagem sobre o seminário “30 anos da Lei 9.099/95”, com ministros do STJ e TJRJ, abordando democratização da Justiça e eficiência institucional — tema de interesse do TCE e CAD-Desenvolvimento.",
+        "link": "https://monitoring.knewin.com/front/noticia/?k=TVRFeE1EVTFPVGczSmpJeU5qST0=&id=111055987"
+    },
+    {
+        "data": "13/10/2025",
+        "jornal": "Correio da Manhã",
+        "titulo": "PINGA-FOGO – Marco Antônio Alencar retorna ao TCE e entregará aposentadoria",
+        "temas_relacionados": [
+        "TCE-RJ",
+        "Tribunal de Contas",
+        "Servidores Públicos"
+        ],
+        "resumo": "A coluna reforça a informação sobre o retorno do conselheiro Marco Antônio Alencar e seu pedido de aposentadoria, contextualizando a decisão do STF e o cenário interno do Tribunal.",
+        "link": "https://www.correiodamanha.com.br/colunistas/magnavita/2025/10/226326-pinga-fogo.html"
+    },
+    
+    {
+        "data": "10/10/2025",
+        "jornal": "O Globo",
+        "titulo": "Desafios da gestão pública inspiram novo Diálogos RJ",
+        "temas_relacionados": [
+            "TCE-RJ",
+            "Gestão Pública",
+            "Transparência",
+            "Desenvolvimento Econômico",
+            "Planejamento",
+            "Responsabilidade Fiscal"
+        ],
+        "resumo": "O evento Diálogos RJ, promovido pelo jornal O Globo, debaterá governança, transparência nos investimentos públicos, concessões e como destravar serviços públicos. O presidente do TCE-RJ, Marcio Pacheco, participará destacando a atuação do tribunal na fiscalização. Questões de responsabilidade fiscal, transporte, saúde, saneamento e investimentos em infraestrutura também são abordadas.",
+        "link": "http://alpha.multclipp.com.br/n/Quq_6fbOtCvU6Wtn4R8lkogzK6GBItrc0"
+    },
+    {
+        "data": "10/10/2025",
+        "jornal": "Correio da Manhã",
+        "titulo": "Falhas na coleta de lixo domiciliar atingem bairros",
+        "temas_relacionados": [
+            "TCE-RJ",
+            "Contrato de Gestão",
+            "Desenvolvimento Social",
+            "Saneamento"
+        ],
+        "resumo": "A coleta de lixo em Petrópolis enfrenta irregularidades devido a um contrato emergencial com a Força Ambiental, após o TCE-RJ barrar uma licitação em 2024. A prefeitura firmou termo aditivo de R$ 8,64 milhões para estender o serviço até 2026. O caso envolve problemas de gestão contratual e fiscalização.",
+        "link": "http://alpha.multclipp.com.br/n/vg9FZtnaQI072I4K06EN34gzK6GBItrc0"
+    },
+    {
+        "data": "10/10/2025",
+        "jornal": "Extra",
+        "titulo": "Desafios da gestão pública em pauta no Diálogos RJ",
+        "temas_relacionados": [
+            "TCE-RJ",
+            "Governança",
+            "Transparência",
+            "Responsabilidade Fiscal",
+            "Saúde",
+            "Saneamento",
+            "Transporte"
+        ],
+        "resumo": "Assim como em O Globo, o jornal Extra destaca a realização do Diálogos RJ, com participação do presidente do TCE-RJ, Marcio Pacheco. O evento abordará transparência, concessões, modernização da gestão pública e responsabilidade fiscal como pilares da administração.",
+        "link": "https://extra.globo.com/rio/noticia/2025/10/desafios-da-gestao-publica-inspiram-novo-dialogos-rj.ghtml"
+    },
+    {
+        "data": "10/10/2025",
+        "jornal": "Rádio Tupi",
+        "titulo": "Casal de ex-prefeitos de Araruama é declarado inelegível",
+        "temas_relacionados": [
+            "TCE-RJ",
+            "Saúde",
+            "Educação",
+            "Orçamento",
+            "Responsabilidade Fiscal",
+            "Inelegibilidade"
+        ],
+        "resumo": "A Câmara de Vereadores de Araruama confirmou decisão do TCE-RJ que reprovou as contas de 2023 da ex-prefeita Lívia de Chiquinho. As falhas incluíram aplicação insuficiente em saúde e educação, abertura irregular de créditos adicionais e restos a pagar sem respaldo financeiro. Lívia e seu marido, também ex-prefeito, tornaram-se inelegíveis.",
+        "link": "https://www.tupi.fm/rio/casal-de-ex-prefeitos-de-araruama-e-declarado-inelegivel/10/10/2025"
+    },
+    {
+        "data": "10/10/2025",
+        "jornal": "Blog do Elizeu Pires",
+        "titulo": "Itaboraí: TCE suspende licitação de R$ 16 milhões",
+        "temas_relacionados": [
+            "TCE-RJ",
+            "CAD-Mobilidade",
+            "Contrato de Gestão",
+            "Urbanismo",
+            "Infraestrutura"
+        ],
+        "resumo": "O TCE-RJ suspendeu uma licitação da Prefeitura de Itaboraí, estimada em R$ 16,3 milhões, para obras de pavimentação e drenagem. A Coordenadoria de Auditoria de Políticas em Mobilidade e Urbanismo apontou irregularidades como ausência de levantamentos técnicos, falhas orçamentárias e problemas de transparência.",
+        "link": "https://elizeupires.com/artigos/geral/73032-itaborai-tce-suspende-licitacao-de-r-16-milhoes/"
+    },
+    {
+        "data": "10/10/2025",
+        "jornal": "O Dia",
+        "titulo": "Câmara de Araruama reprova contas de 2023 de Lívia de Chiquinho e torna ex-prefeita inelegível",
+        "temas_relacionados": [
+            "TCE-RJ",
+            "Saúde",
+            "Educação",
+            "Previdência Social",
+            "Responsabilidade Fiscal"
+        ],
+        "resumo": "A Câmara Municipal de Araruama rejeitou as contas de 2023 da ex-prefeita Lívia de Chiquinho, seguindo parecer do TCE-RJ. Foram identificadas falhas em créditos adicionais, restos a pagar, fundos de previdência dos servidores e aplicação mínima em saúde e educação. Com isso, a ex-gestora fica inelegível por oito anos.",
+        "link": "https://odia.ig.com.br/colunas/politica-costa-do-sol/2025/10/7142831-camara-de-araruama-reprova-contas-de-2023-de-livia-de-chiquinho-e-torna-ex-prefeita-inelegivel.html"
+    },
+    {
+        "data": "10/10/2025",
+        "jornal": "Tempo Real RJ",
+        "titulo": "Câmara de Araruama segue parecer do TCE e reprova contas de ex-prefeita Lívia de Chiquinho",
+        "temas_relacionados": [
+            "TCE-RJ",
+            "Orçamento Público",
+            "Responsabilidade Fiscal",
+            "Inelegibilidade"
+        ],
+        "resumo": "A Câmara de Araruama reprovou contas de 2023 da ex-prefeita Lívia de Chiquinho com base em parecer do TCE-RJ, que apontou abertura irregular de créditos adicionais e impropriedades fiscais. A decisão pode tornar a ex-gestora inelegível, ainda que aliados políticos tenham anunciado pré-candidatura futura.",
+        "link": "https://temporealrj.com/camara-de-araruama-segue-parecer-do-tce-e-reprova-contas-de-ex-prefeita-livia-de-chiquinho/"
+    },
+    {
+        "data": "10/10/2025",
+        "jornal": "O Dia",
+        "titulo": "Tributos: O debate mais importante do ano",
+        "temas_relacionados": [
+            "Receita",
+            "Impostos",
+            "Tributos",
+            "Refis",
+            "Desenvolvimento Econômico"
+        ],
+        "resumo": "A Alerj discute a redução de benefícios fiscais concedidos a empresas e o aumento da retenção de recursos para o Fundo Orçamentário Temporário. Além disso, o governo propõe um novo programa de parcelamento de débitos tributários (Refis), com descontos de até 95% em juros e multas e prazos de até 180 meses. O deputado Luiz Paulo (PSD) defende ajustes moderados, enquanto a indústria sinaliza dificuldades na renegociação.",
+        "link": "http://alpha.multclipp.com.br/n/zOoplDUQYB1BDcwJ_RjhlogzK6GBItrc0"
+    },
+    {
+        "data": "10/11/2025",
+        "jornal": "O Dia",
+        "titulo": "Projeto cria oportunidades a deficientes",
+        "temas_relacionados": [
+            "Trabalho",
+            "Desenvolvimento Social",
+            "Inclusão",
+            "Alerj"
+        ],
+        "resumo": "O deputado estadual Vitor Junior (PDT) apresentou projeto de lei para criar um Banco de Oportunidades Digital para Pessoas com Deficiência (PcDs). A plataforma, vinculada ao Sine, reunirá vagas, currículos e estágios, visando ampliar a inclusão de PcDs no mercado de trabalho no Rio.",
+        "link": "http://alpha.multclipp.com.br/n/YNzRwzPtixBjyzdH025KZogzK6GBItrc0"
+    },
+    {
+        "data": "10/11/2025",
+        "jornal": "Extra",
+        "titulo": "Projeto suspende porte de arma por saúde mental",
+        "temas_relacionados": [
+            "Saúde",
+            "Seguridade Social",
+            "Segurança Pública"
+        ],
+        "resumo": "Projeto de lei em tramitação no Congresso prevê suspender o porte de arma de profissionais das forças de segurança afastados por problemas de saúde mental, até avaliação psicológica. O objetivo é integrar normas de saúde mental ao Estatuto do Desarmamento.",
+        "link": "http://alpha.multclipp.com.br/n/zOoplDUQYB1LtnLzogS_pIgzK6GBItrc0"
+    },
+    {
+        "data": "10/11/2025",
+        "jornal": "Jornal de Sábado",
+        "titulo": "São Pedro da Aldeia",
+        "temas_relacionados": [
+            "Receita",
+            "Impostos",
+            "Tributos",
+            "Dívida ativa"
+        ],
+        "resumo": "A Prefeitura de São Pedro da Aldeia prorrogou prazo para adesão ao REFIS municipal, permitindo descontos de até 100% em juros e multas e parcelamento em até 60 vezes. O programa busca aumentar a arrecadação e reduzir a dívida ativa.",
+        "link": "https://jornaldesabado.net/o-sombra-tudo-sobre-a-politica-na-regiao-dos-lagos-nesta-quinta-feira-dia-09-2/"
+    },
+    {
+        "data": "10/11/2025",
+        "jornal": "Tempo Real RJ",
+        "titulo": "Manifestantes caminham até o Palácio Guanabara em protesto contra abertura de capital da Cedae",
+        "temas_relacionados": [
+            "Desenvolvimento Econômico",
+            "Serviços Públicos",
+            "Água e Saneamento",
+            "Terceirização",
+            "privatização"
+        ],
+        "resumo": "Movimentos populares e sindicatos protestaram contra a abertura de capital da Cedae, alegando que a medida pode prejudicar o fornecimento de água à população e favorecer interesses privados. O contrato com o consórcio Hidro Rio prevê estudo de venda de ações e comissão sobre valores captados.",
+        "link": "https://temporealrj.com/manifestantes-caminham-ate-o-palacio-guanabara-em-protesto-contra-a-abertura-de-capital-da-cedae/"
+    },
+    {
+        "data": "10/11/2025",
+        "jornal": "Jornal de Sábado",
+        "titulo": "Cabo Frio",
+        "temas_relacionados": [
+            "Saúde",
+            "Assistência Social"
+        ],
+        "resumo": "Adolescente deu entrada em UPA de Tamoios com suspeita de intoxicação por metanol após participar de festa. O caso foi comunicado ao Estado, que enviou material para análise no Lacen. A Secretaria de Saúde ressalta que as ocorrências não estão ligadas a bebidas consumidas no município.",
+        "link": "https://jornaldesabado.net/o-sombra-tudo-sobre-a-politica-na-regiao-dos-lagos-nesta-quinta-feira-dia-09-2/"
     }
 
-
- ]
+]
 
 }
