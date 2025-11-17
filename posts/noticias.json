@@ -5,10 +5,10 @@
     "jornal": "Tempo Real RJ",
     "titulo": "Aposentadoria integral e gratificação de 18% para policiais retornam à pauta da Alerj nesta semana",
     "temas_relacionados": [
-      "previdência social",
-      "seguridade social",
-      "trabalho",
-      "emendas parlamentares / legislação estadual"
+      "Previdência Social",
+      "Seguridade Social",
+      "Trabalho",
+      "Emendas Parlamentare"
     ],
     "resumo": "A Alerj deve retomar a votação de dois projetos do governador Cláudio Castro: um que amplia a Gratificação de Valorização Profissional (GVP) — 18% — e outro que garante aposentadoria integral para policiais em casos de acidente de trabalho/doença. O texto trata de correções legislativas, impacto em ativos e inativos e recebeu várias emendas.",
     "link": "https://temporealrj.com/aposentadoria-integral-e-gratificacao-de-18-para-policiais-retornam-a-pauta-da-alerj-nesta-semana/"
@@ -18,22 +18,22 @@
     "jornal": "Folha de S. Paulo",
     "titulo": "Urbanismo social nasce no RJ, inspira Colômbia, mas ainda é raro no Brasil",
     "temas_relacionados": [
-      "habitação",
-      "desenvolvimento social",
-      "desenvolvimento econômico",
-      "terceiro setor / políticas públicas"
+      "Habitação",
+      "Desenvolvimento Social",
+      "Desenvolvimento Econômico",
+      "Terceiro Setor"
     ],
     "resumo": "Reportagem sobre experiências de urbanismo social (teleférico do Complexo do Alemão, UPPs, Usinas da Paz) e as dificuldades de continuidade de projetos que integram serviços públicos, habitação e infraestrutura em áreas vulneráveis; menciona investimentos em habitação pelo governo do RJ e desafios de continuidade.",
     "link": "https://s3.amazonaws.com/static.resources/original_page/273dba8bc74d52804708c28c002309d7?AWSAccessKeyId=AKIAVXOJ7J3IDYUMHYUT&Expires=1771131080&Signature=i%2Bzt5sMDanH%2FZPQTO8sB4zZojTw%3D"
   },
   {
     "data": "17/11/2025",
-    "jornal": "Folha dos Lagos (site)",
+    "jornal": "Folha dos Lagos",
     "titulo": "Minc aciona Alerj e exige punição para descarte de lixo na Fazenda Campos Novos",
     "temas_relacionados": [
-      "desenvolvimento ambiental / social",
-      "terceiro setor (cooperativas de catadores)",
-      "gestão pública / fiscalização"
+      "Desenvolvimento Ambiental",
+      "Terceiro Setor",
+      "Gestão Pública"
     ],
     "resumo": "Deputado Carlos Minc anuncia que acionará Alerj, prefeitura e Inea para punir descarte irregular de lixo em área tombada; debate sobre política de resíduos sólidos, contratação de cooperativas de catadores e obrigação de reparar dano ambiental.",
     "link": "https://www.folhadoslagos.com/geral/minc-aciona-alerj-e-exige-punicao-para-descarte-de-lixo-na-fazenda/21733/"
@@ -41,25 +41,26 @@
   },
   {
     "data": "17/11/2025",
-    "jornal": "Folha de S. Paulo (opinião)",
+    "jornal": "Folha de S. Paulo",
     "titulo": "Descalabro das estatais sob Lula não se limita aos Correios",
     "temas_relacionados": [
-      "receita pública / finanças públicas",
-      "governança de estatais",
-      "Tribunal de Contas (TCU) / fiscalização"
+      "Receita",
+      "Estatais",
+      "TCU"
     ],
     "resumo": "Editorial/coluna que aponta déficits e necessidade de fiscalização e reestruturação em estatais (Correios, ENBPar/Eletronuclear, Infraero, Casa da Moeda, Companhias Docas). Cita a criação de força-tarefa pelo TCU e discute riscos de aportes orçamentários e implicações para receitas públicas.",
     "link": "https://www1.folha.uol.com.br/opiniao/2025/11/descalabro-das-estatais-sob-lula-nao-se-limita-aos-correios.shtml"
   },
   {
     "data": "17/11/2025",
-    "jornal": "Folha de S. Paulo (Mercado)",
+    "jornal": "Folha de S. Paulo",
     "titulo": "Anac impõe em decisão unilateral inclusão de 189 terrenos em concessão de Viracopos",
     "temas_relacionados": [
 
-      "receitas / outorgas / passivos contratuais",
-      "contratos / concessões (aspectos financeiros)",
-      "dívida ativa / multas contratuais (passivo do concessionário)"
+      "Receita",
+      "Concessões",
+      "Contratos Públicos",
+      "Dívida Ativa"
     ],
     "resumo": "Matéria sobre disputa entre ANAC e concessionária ABV por 189 terrenos; a ANAC calcula indenizações e revela débitos da concessionária (outorgas vencidas, multas), destacando passivos e impactos financeiros de concessões que tocam receitas e potenciais compensações.",
     "link": "https://www1.folha.uol.com.br/mercado/2025/11/anac-impoe-em-decisao-unilateral-inclusao-de-189-terrenos-em-concessao-de-viracopos.shtml"
@@ -69,9 +70,10 @@
     "jornal": "O Globo",
     "titulo": "Força-tarefa no Rio atuará para remover barricadas do tráfico",
     "temas_relacionados": [
-      "desenvolvimento social",
-      "seguridade / impacto em políticas públicas locais",
-      "governo estadual / coordenação intermunicipal"
+      "Desenvolvimento Social",
+      "Seguridade Social",
+      "Governo do RJ",
+      "Gestão Municipal"
     ],
     "resumo": "Reportagem sobre plano do governo do Rio para ação contínua de remoção de barricadas montadas por grupos criminosos na Região Metropolitana (13.604 pontos mapeados), incluindo logística, uso de maquinário, participação de prefeituras e segurança pela PM; menção a municípios mais críticos e cronograma de atuação.",
     "link": "https://s3-sa-east-1.amazonaws.com/multclipp/arquivos/noticias/2025/11/17/112552798/112552798_site.jpg"
@@ -81,9 +83,8 @@
     "jornal": "Poder360",
     "titulo": "Operações contra facções avançam em 15 Estados após 121 mortes no Rio",
     "temas_relacionados": [
-          "seguridade pública (impacto social / coordenação entre entes)",
-      "receita/controles financeiros (menção a investigação de cadeias econômicas do crime)",
-      "cooperação com Receita Federal / rastreamento de ativos"
+      "Seguridade Social",
+      "Receita"
     ],
     "resumo": "Notícia sobre ofensiva coordenada em 15 Estados após megaoperação no RJ; especialistas cobram investigação do financiamento das facções, rastreamento de ativos e cooperação entre Polícia Federal, MP, Receita Federal e instituições financeiras.",
     "link": "https://www.poder360.com.br/poder-seguranca-publica/operacoes-contra-faccoes-avancam-em-15-estados-apos-121-mortes-no-rio/"
