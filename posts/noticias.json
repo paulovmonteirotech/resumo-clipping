@@ -1,6 +1,75 @@
 {
   "noticias": [
   {
+    "data": "18/11/2025",
+    "jornal": "Diário de Petrópolis",
+    "titulo": "Relatório do TCE aponta falhas na arrecadação em Petrópolis",
+    "temas_relacionados": [
+      "Tributos",
+      "Receita",
+      "Dívida Ativa",
+      "TCE-RJ",
+      "CAD-Receita"
+    ],
+    "resumo": "Auditoria do TCE-RJ identificou falhas na gestão tributária da Prefeitura de Petrópolis entre 2021 e 2024, afetando a cobrança de impostos e a dívida ativa. O relatório, assinado pelo conselheiro Thiago Pampolha, aponta problemas estruturais e crônicos não resolvidos, como cadastro fiscal desatualizado e ausência de georreferenciamento. A prefeitura reconheceu os problemas e anunciou medidas corretivas, como atualização da PGV, revisão cadastral e programa de refinanciamento da dívida ativa.",
+    "link": "https://s3-sa-east-1.amazonaws.com/multclipp/arquivos/noticias/2025/11/18/112602362/v1.5_112602362_750839cf.jpg"
+  },
+  {
+    "data": "18/11/2025",
+    "jornal": "Correio da Manhã",
+    "titulo": "Crise no Sehac: custo anual aumentou R$ 50 milhões",
+    "temas_relacionados": [
+      "Saúde",
+      "Assistência Social",
+      "Dívida Ativa",
+      "TCE-RJ",
+      "CAD-Saúde"
+    ],
+    "resumo": "O custo anual do Hospital Alcides Carneiro (Sehac) aumentou R$ 50 milhões entre 2022 e 2024, atingindo R$ 242 milhões. A audiência judicial revelou falta de planejamento, unidades sem financiamento estadual/federal e déficit de R$ 150 milhões no MAC. A dívida da prefeitura com o Sehac soma R$ 254 milhões. O município negocia termo de ajuste com o TCE-RJ. O relatório do MPRJ apontou falhas graves na estrutura hospitalar e risco de desabastecimento.",
+    "link": "https://www.correiodamanha.com.br/petropolitano/2025/11/234132-crise-no-sehac-custo-anual-aumentou-rs-50-milhoes.html"
+  },
+  {
+    "data": "18/11/2025",
+    "jornal": "Jornal Aqui",
+    "titulo": "Refis 2025",
+    "temas_relacionados": [
+      "Tributos",
+      "Dívida Ativa",
+      "Receita",
+      "Assistência Social"
+    ],
+    "resumo": "A Prefeitura de Volta Redonda anunciou o prazo final para adesão ao Programa de Recuperação Fiscal (Refis 2025), que oferece até 100% de desconto em juros e multas para regularização de débitos tributários e não tributários. O programa é coordenado pela Secretaria de Fazenda e visa ampliar a arrecadação municipal e reduzir a dívida ativa.",
+    "link": "https://jornalaqui.com/grampos-1482/"
+  },
+  {
+    "data": "18/11/2025",
+    "jornal": "Carta Capital",
+    "titulo": "Dino dá 10 dias para PGR se manifestar sobre uso de emenda para pagamento de pessoal da saúde",
+    "temas_relacionados": [
+      "Emendas Parlamentares",
+      "Saúde",
+      "TCU",
+      "CAD-Saúde"
+    ],
+    "resumo": "O ministro Flávio Dino, do STF, determinou que a PGR se manifeste sobre a legalidade da utilização de emendas parlamentares para pagamento de pessoal da saúde. O TCU havia inicialmente vetado esse uso, por considerar que emendas são recursos temporários e salários são despesas permanentes. Após embargos do Congresso, o TCU revogou a decisão e solicitou mais discussão sobre o tema.",
+    "link": "https://www.cartacapital.com.br/justica/dino-da-10-dias-para-pgr-se-manifestar-sobre-uso-de-emenda-para-pagamento-de-pessoal-da-saude/"
+  },
+  {
+    "data": "18/11/2025",
+    "jornal": "Entre-Rios",
+    "titulo": "CPI das Câmeras: Receita Federal aponta em reunião na Alerj indícios de fraude fiscal nas empresas de proteção veicular investigadas",
+    "temas_relacionados": [
+      "Receita",
+      "Tributos",
+      "Desenvolvimento Econômico",
+      "TCE-RJ",
+      "Alerj"
+    ],
+    "resumo": "Durante reunião da CPI das Câmeras na Alerj, a Receita Federal apontou indícios de fraude fiscal em empresas de proteção veicular. Estima-se sonegação de até R$ 200 milhões. A CPI identificou uso de familiares como laranjas e conexões com grupos de recuperação de veículos. A Receita vai aprofundar a investigação com base nos dados apresentados.",
+    "link": "https://www.entreriosjornal.com/2025/11/cpi-das-cameras-receita-federal-aponta.html"
+  },
+
+  {
     "data": "17/11/2025",
     "jornal": "Tempo Real RJ",
     "titulo": "Aposentadoria integral e gratificação de 18% para policiais retornam à pauta da Alerj nesta semana",
