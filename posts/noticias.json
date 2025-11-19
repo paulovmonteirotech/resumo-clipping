@@ -1,5 +1,93 @@
 {
   "noticias": [
+    
+  {
+    "data": "19/11/2025",
+    "jornal": "Correio Braziliense",
+    "titulo": "12,4 milhões de clientes atingidos",
+    "temas_relacionados": [
+      "Previdência Social",
+      "Trabalho",
+      "Receita",
+      "TCE-RJ",
+      "CAD-Previdência",
+      "CAD-Receita"
+    ],
+    "resumo": "A liquidação extrajudicial do Banco Master, decretada pelo Banco Central, afeta diretamente 12,4 milhões de correntistas e investidores, além de 515 trabalhadores. O Fundo Garantidor de Créditos (FGC) cobre até R$ 250 mil por CPF/CNPJ. O processo de ressarcimento pode levar até 40 dias. O Rioprevidência investiu R$ 2,6 bilhões em fundos ligados ao Master, mesmo após alertas do TCE-RJ sobre irregularidades. O tribunal determinou tutela provisória proibindo novas operações com o banco. Cerca de R$ 960 milhões estavam aplicados em letras financeiras não cobertas pelo FGC.",
+    "link": "https://monitoring.knewin.com/front/noticia/?k=TVRFeU5qVTFNVFEySmpJeU5qST0=&id=112655146"
+  },
+  {
+    "data": "19/11/2025",
+    "jornal": "Folha de S. Paulo",
+    "titulo": "Pagamento de aposentadorias está garantido, afirma Rioprevidência",
+    "temas_relacionados": [
+      "Previdência Social",
+      "Receita",
+      "Royalties",
+      "TCE-RJ",
+      "CAD-Previdência",
+      "CAD-Receita"
+    ],
+    "resumo": "O Rioprevidência afirma que o pagamento de aposentadorias e pensões está garantido, apesar da liquidação do Banco Master. O fundo contesta o valor de R$ 2,6 bilhões apontado pelo TCE-RJ, alegando ter investido R$ 960 milhões em letras financeiras. As despesas são custeadas majoritariamente por receitas de royalties e participações especiais. O deputado Flávio Serafini (PSOL-RJ) pediu investigação criminal e financeira da gestão do fundo.",
+    "link": "https://monitoring.knewin.com/front/noticia/?k=TVRFeU5qVXhORGc1SmpJeU5qST0=&id=112651489"
+  },
+  {
+    "data": "19/11/2025",
+    "jornal": "O Globo",
+    "titulo": "Liquidação do Master põe em risco recursos de aposentados do Estado do Rio",
+    "temas_relacionados": [
+      "Previdência Social",
+      "TCE-RJ",
+      "CAD-Previdência"
+    ],
+    "resumo": "A crise do Banco Master expôs riscos na gestão do Rioprevidência. Segundo o TCE-RJ, o fundo aplicou R$ 2,6 bilhões em títulos não cobertos pelo FGC, sendo R$ 1 bilhão investido após alertas sobre riscos. O fundo afirma que os pagamentos aos aposentados estão garantidos.",
+    "link": "https://monitoring.knewin.com/front/noticia/?k=TVRFeU5qVXpORE01SmpJeU5qST0=&id=112653439"
+  },
+  {
+    "data": "19/11/2025",
+    "jornal": "Monitor Mercantil",
+    "titulo": "Governadores de direita e o Banco Master",
+    "temas_relacionados": [
+      "Previdência Social",
+      "TCE-RJ",
+      "CAD-Previdência"
+    ],
+    "resumo": "O artigo critica o silêncio de governadores bolsonaristas diante do escândalo do Banco Master. O governador Cláudio Castro é responsabilizado por nomear os dirigentes do Rioprevidência, que investiu entre R$ 980 milhões e R$ 2,6 bilhões no banco. O TCE-RJ proibiu novas compras, mas a determinação não teria sido cumprida. O professor Hugo Garbe alerta para a exposição de fundos de previdência a títulos do Master, com impacto sistêmico.",
+    "link": "https://monitormercantil.com.br/governadores-de-direita-e-o-banco-master/"
+  },
+  {
+    "data": "19/11/2025",
+    "jornal": "Destak",
+    "titulo": "Rioprevidência assegura pagamento de aposentadorias após liquidação do Banco Master",
+    "temas_relacionados": [
+      "Previdência Social",
+      "TCE-RJ",
+      "Receita",
+      "Royalties",
+      "Dívida Pública"
+    ],
+    "resumo": "O Rioprevidência garantiu que o pagamento de aposentadorias e pensões está assegurado, mesmo após a liquidação do Banco Master, no qual investiu cerca de R$ 960 milhões. O TCE-RJ apontou que os investimentos somam R$ 2,6 bilhões, valor contestado pela autarquia. O fundo afirma que está negociando a substituição das letras financeiras por precatórios federais. A operação foi realizada com base em rating 'A-' da Fitch Ratings e aprovação do Conselho de Administração. O Sepe manifestou preocupação com a gestão do fundo, citando prejuízos de R$ 17 bilhões investigados por CPI.",
+    "link": "https://destakjornal.com.br/rioprevidencia-assegura-pagamento-de-aposentadorias-apos-liquidacao-do-banco-master/"
+  },
+  {
+    "data": "19/11/2025",
+    "jornal": "Rádio BandNews",
+    "titulo": "RioPrev aplicou cerca de R$960 milhões no Banco Master apesar de alertas do TCE",
+    "temas_relacionados": [
+      "Previdência Social",
+      "TCE-RJ",
+      "CAD-Previdência",
+      "CAD-Receita",
+      "Desenvolvimento Econômico"
+    ],
+    "resumo": "O TCE-RJ é mencionado como órgão que alertou previamente sobre os riscos.",
+    "link": "https://monitoring.knewin.com/front/noticia/?k=TVRFeU5qSTRORGczSmpJeU5qST0=&id=112628487"
+  },
+ 
+
+
+
+    
   {
     "data": "18/11/2025",
     "jornal": "Diário de Petrópolis",
