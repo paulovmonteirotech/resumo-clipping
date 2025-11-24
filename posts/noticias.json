@@ -1,5 +1,121 @@
 {
   "noticias": [
+  {
+    "data": "24/11/2025",
+    "jornal": "Correio da Manhã",
+    "titulo": "Prefeitura entra com liminar para liberar 70% de reajuste",
+    "temas_relacionados": [
+      "TCE-RJ",
+      "Assistência Social",
+      "Educação",
+      "Saúde",
+      "Gestão Pública"
+    ],
+    "resumo": "A Prefeitura de Petrópolis tenta derrubar liminar que suspendeu reajuste de 70% nos salários do prefeito, vice e secretários. O TCE-RJ apontou impacto anual de R$ 14 milhões, equivalente a quase uma folha da educação, criticando a falta de prioridade para áreas essenciais como saúde e assistência social.",
+    "link": "http://alpha.multclipp.com.br/n/AWqYM9Wsq5qGjUJKbYS6KogzK6GBItrc0"
+  },
+  {
+    "data": "24/11/2025",
+    "jornal": "Correio da Manhã",
+    "titulo": "Concessionária de lixo vai circular por 30 anos em Nova Friburgo",
+    "temas_relacionados": [
+      "TCE-RJ",
+      "Serviços Públicos",
+      "Contrato de Gestão",
+      "Indústria de Resíduos"
+    ],
+    "resumo": "Nova Friburgo formalizou contrato de R$ 1 bilhão com Vital Engenharia Ambiental para concessão de limpeza urbana por 30 anos. O TCE-RJ havia contestado o edital por irregularidades como falta de transparência e inconsistências financeiras.",
+    "link": "http://alpha.multclipp.com.br/n/AWqYM9Wsq5qVXYmhEqNMXYgzK6GBItrc0"
+  },
+  {
+    "data": "24/11/2025",
+    "jornal": "Atricon",
+    "titulo": "Caso Master: o retrato de Dorian Gray da Previdência Social brasileira",
+    "temas_relacionados": [
+      "Previdência Social",
+      "TCE-RJ",
+      "Seguridade Social",
+      "Governança"
+    ],
+    "resumo": "Artigo analisa riscos sistêmicos na gestão de regimes próprios de previdência social, com quase R$ 2 bilhões expostos ao Banco Master. Tribunais de Contas, incluindo TCE-RJ, alertaram sobre irregularidades ignoradas por gestores.",
+    "link": "https://atricon.org.br/caso-master-o-retrato-de-dorian-gray-da-previdencia-social-brasileira/"
+  },
+  {
+    "data": "24/11/2025",
+    "jornal": "Diário de Petrópolis",
+    "titulo": "As licitações toscas são o caminho aberto para os contratos emergenciais",
+    "temas_relacionados": [
+      "TCE-RJ",
+      "Gestão Pública",
+      "Previdência Municipal",
+      "Assistência Social"
+    ],
+    "resumo": "Coluna denuncia falhas em editais da CPTrans e alerta para prejuízos com contratos emergenciais. TCE-RJ recebeu denúncias sobre irregularidades. Também menciona problemas no Inpas, incluindo uso indevido de recursos previdenciários e riscos à compensação previdenciária.",
+    "link": "https://diariodepetropolis.com.br/integra/colunista-douglas-prado-35543"
+  },
+  {
+    "data": "24/11/2025",
+    "jornal": "O Globo",
+    "titulo": "O que levou Ronnie Lessa, assassino confesso de Marielle Franco, a apelar para sair de Tremembé",
+    "temas_relacionados": [
+      "TCE-RJ",
+      "Institucional",
+      "Corrupção",
+      "Governança"
+    ],
+    "resumo": "Reportagem sobre transferência de Ronnie Lessa cita Domingos Brazão, conselheiro do TCE-RJ, como suposto mandante do crime, segundo delação premiada. Caso envolve grilagem de terras e corrupção.",
+    "link": "https://oglobo.globo.com/blogs/segredos-do-crime/coluna/2025/11/o-que-levou-ronnie-lessa-assassino-confesso-de-marielle-franco-a-apelar-para-sair-de-tremembe.ghtml"
+  },
+  {
+    "data": "24/11/2025",
+    "jornal": "Tempo Real RJ",
+    "titulo": "Na gaveta: Alerj ainda não analisou as contas do governo Cláudio Castro referentes aos anos de 2022, 2023 e 2024",
+    "temas_relacionados": [
+      "TCE-RJ",
+      "Receita",
+      "Gestão Pública"
+    ],
+    "resumo": "Contas do governo estadual aprovadas pelo TCE-RJ seguem sem análise pela Alerj desde 2021. Impasse político entre governador Cláudio Castro e presidente da Alerj atrasa votação.",
+    "link": "https://temporealrj.com/na-gaveta-alerj-ainda-nao-analisou-as-contas-do-governo-claudio-castro-referentes-aos-anos-de-2022-2023-e-2024/"
+  },
+  {
+    "data": "24/11/2025",
+    "jornal": "Rádio BandNews",
+    "titulo": "Rioprevidência e Cedae investiram no Banco Master",
+    "temas_relacionados": [
+      "Previdência Social",
+      "TCE-RJ",
+      "Receita",
+      "Governança"
+    ],
+    "resumo": "Rioprevidência aplicou R$ 960 milhões no Banco Master, mesmo após alerta do TCE-RJ sobre irregularidades. Cedae também investiu R$ 237 milhões. Caso levanta preocupações sobre segurança dos fundos previdenciários.",
+    "link": "https://monitoring.knewin.com/front/noticia/?k=TVRFeU9EQTRNVEkxSmpJeU5qST0=&id=112808125"
+  },
+  {
+    "data": "24/11/2025",
+    "jornal": "Rádio BandNews",
+    "titulo": "Valor do Bilhete Único será reajustado em dezembro",
+    "temas_relacionados": [
+      "TCE-RJ",
+      "Transporte Público",
+      "Receita"
+    ],
+    "resumo": "Bilhete Único intermunicipal terá aumento para R$ 9,40. Relatório do TCE-RJ apontou gestão imprudente na política tarifária e nos serviços de transporte coletivo.",
+    "link": "https://monitoring.knewin.com/front/noticia/?k=TVRFeU9ESXlPVEEzSmpJeU5qST0=&id=112822907"
+  },
+  {
+    "data": "24/11/2025",
+    "jornal": "Correio da Manhã",
+    "titulo": "Justiça mantém produção de vacinas para o SUS",
+    "temas_relacionados": [
+      "Saúde",
+      "TCU",
+      "Assistência Social"
+    ],
+    "resumo": "Decisão judicial garante continuidade da licitação para serviços essenciais à produção de vacinas pela Fiocruz. TCU determinou retomada do processo após corrigir irregularidades no edital.",
+    "link": "https://www.correiodamanha.com.br/nacional/2025/11/235112-justica-mantem-producao-de-vacinas-para-o-sus.html"
+  },
+
     
   {
     "data": "19/11/2025",
